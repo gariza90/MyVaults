@@ -1,0 +1,6 @@
+# Ignorar todos los archivos terminados en tilda ~
+*~
+.obsidian/cache
+.obsidian/workspace
+.trash/
+.DS_Store

@@ -1,0 +1,22 @@
+Links: [[Scrum Aspects]]
+
+# Justificación del Negocio
+---
+
+Se basa en el concepto de entrega impulsada por el valor.
+
+Una de las características claves de cualquier proyecto es la incertidumbre sobre los resultados.
+
+Es imposible garantizar el éxito de un proyecto, independientemente del tamaño o la complejidad del mismo.
+
+Considerando esta inseguridad de alcanzar el éxito, [[Scrum]] busca iniciar la entrega de resultados lo antes posible en el proyecto.
+
+Esta entrega temprana de resultados, y por lo tanto de valor, proporciona una oportunidad para la reinversión y demuestra el valor del proyecto a las [[Stakeholders|partes interesadas]].
+
+La adaptabilidad de [[Scrum]] permite que los objetivos y procesos del proyecto cambien si cambia su justificación del negocio.
+
+Es importante señalar que, si bien el [[Product Owner]] es el responsable principal de la justificación del negocio, otros miembros del [[Scrum Team|equipo]] también contribuyen considerablemente.
+
+---
+
+## Referencias

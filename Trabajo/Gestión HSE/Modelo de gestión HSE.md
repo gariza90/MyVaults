@@ -1,0 +1,1 @@
+![[SistemaGestionHSE.png]]

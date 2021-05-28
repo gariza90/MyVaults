@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "4b3c9f38d85cc0fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "03cc6f8ad54401d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Operación Estructurada/Prácticas/Práctica 5. Análisis Operacional.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72712fbbc191ffcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e057d193552ecdfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5306c2e66b47f091",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "194ec7dddf207fa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "931e4f5269b395ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "40dbb92ea3a1da4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf2963866cea9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03bd30b30f2b82f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operación Estructurada/Prácticas/Práctica 5. Análisis Operacional.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41b7413a4ed01bc5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d1ae4e633f416df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operación Estructurada/Prácticas/Práctica 5. Análisis Operacional.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356
+  },
+  "active": "03cc6f8ad54401d1",
+  "lastOpenFiles": [
+    "Operación Estructurada/Prácticas/Práctica 5. Análisis Operacional.md",
+    "Glosario.md",
+    "Operación Estructurada/Roles y Responsabilidades.md",
+    "Operación Estructurada/Prácticas/Práctica 2. Rondas Estructuradas.md",
+    "Operación Estructurada/Prácticas/Práctica 1. Entrega y Recibo de Turnos.md",
+    "Operación Estructurada/Formatos/Reportes de turno por cargos.md",
+    "Operación Estructurada/Formatos/Evaluación de las prácticas de operación estructurada.md",
+    "Operación Estructurada/Formatos/Diseño y configuración de rondas estructuradas en Ecopetrol S.A..md",
+    "Gestión HSE/Modelo de gestión HSE.md",
+    "Operación Estructurada/Prácticas/Práctica 4. Cuidado Básico de Equipos.md"
+  ]
+}
