@@ -1,10 +1,10 @@
 %% #Notas %%
-Links: [[Evergreen Notes MOC]], [[Qué son las Notas Evergreen]]
+Links: [[Toma de Notas MOC]], [[Qué son las Notas Evergreen]]
 
-# Principios Evergreen
+# Principios para Toma de Notas
 ---
 
-Las notas Evergreen deben ser:
+Las notas deben ser:
 - [[Notas Atómicas|Atómicas]]
 - [[Notas Orientadas a Conceptos|Orientadas a Conceptos]]
 - [[Notas Densamente Vinculadas|Densamente Vinculadas]]

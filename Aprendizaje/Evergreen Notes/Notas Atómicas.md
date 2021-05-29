@@ -1,5 +1,5 @@
 %% #Notas %%
-Links: [[Principios Evergreen]]
+Links: [[Principios para Toma de Notas]]
 
 # Notas Atómicas
 ---

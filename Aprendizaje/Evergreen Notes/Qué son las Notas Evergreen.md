@@ -1,5 +1,5 @@
 %% #Notas %%
-Links: [[Evergreen Notes MOC]]
+Links: [[Toma de Notas MOC]]
 
 # Qué son las Notas Evergreen?
 ---
@@ -10,4 +10,4 @@ Evergreen significa que **siempre está verde, fresco, disponible para consumir*
 
 Este concepto evoluciona en gran parte del [[Zettelkasten]] de [[Niklas Luhmann]].
 
-Ver [[Principios Evergreen]]
+Ver [[Principios para Toma de Notas]]
