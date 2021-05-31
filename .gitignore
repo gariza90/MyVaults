@@ -1,5 +1,6 @@
 # Ignorar todos los archivos terminados en tilda ~
 *~
+.obsidian-git-data
 .obsidian/cache
 .obsidian/workspace
 .trash/
