@@ -1,5 +1,5 @@
 %% #Notas %%
-Links: [[Qué son las Notas Evergreen]]
+Links: [[Toma de Notas MOC]], [[Notas Evergreen]]
 
 # Zettelkasten
 ---

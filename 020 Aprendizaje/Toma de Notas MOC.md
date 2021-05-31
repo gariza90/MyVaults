@@ -2,7 +2,7 @@
 ---
 
 - [[Zettelkasten]]
-- [[Qué son las Notas Evergreen]]
+- [[Notas Evergreen]]
 - [[Principios para Toma de Notas]]
 
 ---

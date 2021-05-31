@@ -1,7 +1,7 @@
 %% #Notas %%
 Links: [[Toma de Notas MOC]]
 
-# Qué son las Notas Evergreen?
+# Notas Evergreen
 ---
 
 Son aquellas que se escriben y se organizan para contribuir al conocimiento, principalmente, de quien las elabora, donde su contenido siempre permanece relevante sin importar el pasar del tiempo.
