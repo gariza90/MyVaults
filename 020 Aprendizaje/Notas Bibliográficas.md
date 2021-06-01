@@ -1,0 +1,17 @@
+Links: [[Tipos de Notas]]
+
+# Notas Bibliográficas
+---
+
+Son ideas extraídas de un libro o artículo.
+
+Estas ideas deben ser:
+- Escritas con [[Notas Personalizadas|palabras propias]].
+- Cumplir con el principio de [[Notas Atómicas|atomicidad]].
+- Incluir la referencia completa de la fuente.
+- Incluir la cita relevante que desencadenó la idea.
+
+---
+
+## Referencias
+[El método Zettelkasten: ejemplos que le ayudarán a empezar - ichi.pro](https://ichi.pro/es/el-metodo-zettelkasten-ejemplos-que-le-ayudaran-a-empezar-157824025533158)
