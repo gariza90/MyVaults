@@ -6,7 +6,6 @@ Links: [[Toma de Notas MOC]], [[Notas Evergreen]]
 
 Las notas deben ser:
 - [[Notas Atómicas|Atómicas]]
-- [[Notas Autónomas]]
 - [[Notas Orientadas a Conceptos|Orientadas a Conceptos]]
 - [[Notas Densamente Vinculadas|Densamente Vinculadas]]
 - [[Notas Orgánicamente Estructuradas|Orgánicamente Estructuradas]]
