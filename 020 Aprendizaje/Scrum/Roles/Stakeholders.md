@@ -11,9 +11,9 @@ Aunque no tienen un papel central dentro del proceso [[Scrum]], considerar sus d
 2. Los clientes.
 3. Los usuarios finales.
 4. Empleadores o contribuyentes externos
-5. [[Scrum Team|Equipo Scrum]] en sí.
+5. [[Principal Scrum Team|Equipo Scrum]] en sí.
 
-Contrariamente a proyectos convencionales donde las partes interesadas terminarían siendo responsabilidad de un gerente, los [[Scrum Team|equipos Scrum]] son autosuficientes, lo cual, hace que cada miembro del equipo tenga cierta influencia. Esto consiste en:
+Contrariamente a proyectos convencionales donde las partes interesadas terminarían siendo responsabilidad de un gerente, los [[Principal Scrum Team|equipos Scrum]] son autosuficientes, lo cual, hace que cada miembro del equipo tenga cierta influencia. Esto consiste en:
 - Identificar las partes interesadas y entender a qué clase pertenecen.
 - Evaluar conocimiento y habilidades.
 - Analizar el proyecto y asegurarse de que se cumplan sus necesidades.

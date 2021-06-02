@@ -11,7 +11,7 @@ Priorizar los requisitos del [[Product Backlog]] o pila de productos es una func
 
 Los requerimientos de alto valor se identifican y se trasladan a la parte superior del [[Product Backlog]].
 
-La priorización es esencial para asegurar que el tiempo y el presupuesto disponible, es usado correctamente para llevarle valor al [[Stakeholders|cliente]], y mantener al [[Scrum Team|equipo]] concentrado en los aspectos mas importantes.
+La priorización es esencial para asegurar que el tiempo y el presupuesto disponible, es usado correctamente para llevarle valor al [[Stakeholders|cliente]], y mantener al [[Principal Scrum Team|equipo]] concentrado en los aspectos mas importantes.
 
 La priorización debe basarse en lo que es más importante para el [[Stakeholders|cliente]].
 
@@ -70,7 +70,7 @@ De acuerdo a este modelo, los niveles de requerimientos podrían clasificarse de
 ### Método peso relativo
 - Determina el valor de la presencia de la función y tambien el impacto negativo que puede ser causado por la ausencia de esa misma función.
 - Se basa en el criterio.
-- Liderado por [[Product Owner|Product Owner]], pero en forma conjunta con el [[Scrum Team|equipo]] evalúa cada función.
+- Liderado por [[Product Owner|Product Owner]], pero en forma conjunta con el [[Principal Scrum Team|equipo]] evalúa cada función.
 - Cada función se puntúa del 1 al 9, dependiendo de los siguientes aspectos:
 	- Beneficios por tenerla.
 	- Consecuencias por no tenerla.

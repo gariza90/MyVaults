@@ -1,5 +1,5 @@
-# Scrum Team
-###### Equipo Scrum
+# Principal Scrum Team
+###### Equipo Principal Scrum
 ---
 
 Es la unidad fundamental de [[Scrum]].
@@ -7,7 +7,7 @@ Es la unidad fundamental de [[Scrum]].
 Está conformado por:
 - [[Product Owner|Product Owner]].
 - [[Scrum Master|Scrum Master]].
-- [[Development Team|Equipo de Desarrollo]].
+- [[Scrum Team|Equipo de Desarrollo]].
 
 No existen sub-equipos ni jerarquías.
 

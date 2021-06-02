@@ -16,9 +16,9 @@ Puede tener cualquier duración, horas, días, semanas, meses.
 
 Permite determinar y controlar cuanto tiempo se invertirá en una actividad determinada. Si estás retrasado a una actividad no se ha podido completar dentro del límite de tiempo, mueve la actividad o actividades restantes para el siguiente bloque de tiempo.
 
-Fija la duración del [[Sprint]] y el [[Development Team|equipo]] determina cuantas funcionalidades pueden ser entregadas en ese término de tiempo.
+Fija la duración del [[Sprint]] y el [[Scrum Team|equipo]] determina cuantas funcionalidades pueden ser entregadas en ese término de tiempo.
 
-Esto garantiza que los miembros del [[Scrum Team|equipo]] no ocupen demasiado tiempo o muy poco tiempo en una actividad determinada, y que no desperdicien su tiempo y energía en un trabajo para el cual tienen poca claridad.
+Esto garantiza que los miembros del [[Principal Scrum Team|equipo]] no ocupen demasiado tiempo o muy poco tiempo en una actividad determinada, y que no desperdicien su tiempo y energía en un trabajo para el cual tienen poca claridad.
 
 ### Ventajas
 - **Concentración**: Ayuda a centrar la atención en el trabajo durante el periodo de tiempo determinado.

@@ -10,11 +10,11 @@
 
 Se debe revisar y actualizar al final de cada [[Sprint]].
 
-Es esencialmente un mapa de cómo el [[Scrum Team|equipo]] pretende alcanzar la visión del proyecto e implementar las funciones y cumplir con los objetivos del proyecto mienras se trabaja dentro de las restricciones del proyecto.
+Es esencialmente un mapa de cómo el [[Principal Scrum Team|equipo]] pretende alcanzar la visión del proyecto e implementar las funciones y cumplir con los objetivos del proyecto mienras se trabaja dentro de las restricciones del proyecto.
 
 Es un artefacto importante para el [[Product Owner|Product Owner]] mediante el cual, se establece una serie de expectativas junto con las [[Stakeholders|partes interesadas]] del proyecto acerca de lo que pueden esperar del [[Producto]] final.
-- Ayuda al [[Product Owner|Product Owner]] y al [[Scrum Team|equipo entero]] a decidir cuándo debe ser desarrollado y cuanto tiempo tomará antes de que tengan un [[Producto]] listo para el lanzamiento.
-- También ayuda al [[Scrum Team|equipo]]  a tener un mejor [[Entendimiento Común|entendimiento]] de las expectativas y planificar de acuerdo a ello.
+- Ayuda al [[Product Owner|Product Owner]] y al [[Principal Scrum Team|equipo entero]] a decidir cuándo debe ser desarrollado y cuanto tiempo tomará antes de que tengan un [[Producto]] listo para el lanzamiento.
+- También ayuda al [[Principal Scrum Team|equipo]]  a tener un mejor [[Entendimiento Común|entendimiento]] de las expectativas y planificar de acuerdo a ello.
 - Aplica las mejores prácticas de la [[Gerencia de Configuración]].
 
 Ayuda al [[Product Owner|Product Owner]] llevar a cabo el plan otorgando lógicas *Milestones*.
@@ -29,7 +29,7 @@ Además, el [[Product Owner|Product Owner]] siempre tiene una visión general de
 
 El [[Product Owner|Product Owner]] debe mostrar su visión del producto, esto determina las condiciones de satisfacción, la cual podría incluir las expectativas acerca del alcance, calendario, calidad, etc.
 
-El [[Development Team|equipo]] debe estar en la posición de lanzar el producto cuando el [[Stakeholders|cliente]] lo requiera y debe estar en  condiciones de ser puesto en operación en un ambiente de producción.
+El [[Scrum Team|equipo]] debe estar en la posición de lanzar el producto cuando el [[Stakeholders|cliente]] lo requiera y debe estar en  condiciones de ser puesto en operación en un ambiente de producción.
 
 Después de cada [[Sprint]] es en realidad un lanzamiento donde el [[Product Owner|Product Owner]] decide en realidad lanzar el producto o no.
 

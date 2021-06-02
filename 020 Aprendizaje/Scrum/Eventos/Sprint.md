@@ -5,7 +5,7 @@ Links: [[Scrum Events]], [[Timeboxing]]
 
 Es el corazón de [[Scrum]], donde las ideas se convierten en valor.
 
-Son objetivos de corta duración que ayudan al [[Scrum Team|equipo]] a completar parte del trabajo de un proyecto dentro de un [[Timeboxing|bloque de tiempo]] determinado.
+Son objetivos de corta duración que ayudan al [[Principal Scrum Team|equipo]] a completar parte del trabajo de un proyecto dentro de un [[Timeboxing|bloque de tiempo]] determinado.
 
 Es importante entender que el ritmo del proyecto debe ser lo suficientemente moderado, así como tambien, sostenible.
 
@@ -29,7 +29,7 @@ Factores al seleccionar la duración de un Sprint:
 - La cantidad de tiempo en el cual el equipo puede continuar sin feedback.
 - Los gastos generales de los Sprints: [[Sprint Planning|Planificación]], [[Sprint Review|Revisión]] y [[Sprint Retrospective|Retrospectiva]].
 
-Durante la administración del Sprint, el [[Scrum Team|equipo]] planea y se compromete a un [[Sprint Goal|objetivo para el Sprint]].
+Durante la administración del Sprint, el [[Principal Scrum Team|equipo]] planea y se compromete a un [[Sprint Goal|objetivo para el Sprint]].
 
 Los Sprints permiten la previsivilidad al garantizar la [[Scrum Pillars#Inspección|inspección]] y [[Scrum Pillars#Adaptación|adaptación]] del progreso hacia el [[Sprint Goal|objetivo del producto]] al menos una vez al mes.
 
@@ -38,15 +38,15 @@ Para que el equipo pueda cumplir con su compromiso, el Sprint necesita ser *bloq
 - No pueden haber cambios en el [[Product Backlog|Product Backlog]], se debe esperar al siguiente Sprint para priorizar los nuevos requisitos del cliente.
 - No se realizan cambios sustanciales en el [[Sprint Backlog|Sprint Backlog]] que puedan afectar al [[Sprint Goal|Objetivo del Sprint]].
 - Los objetivos de calidad sobre el [[Product Increment|incremento de producto]] no disminuyen.
-- El alcance puede ser clarificado y renegociado entre el [[Product Owner|Product Owner]] y el [[Development Team|Equipo de Desarrollo]] a medida que se va aprendiendo más.
+- El alcance puede ser clarificado y renegociado entre el [[Product Owner|Product Owner]] y el [[Scrum Team|Equipo de Desarrollo]] a medida que se va aprendiendo más.
 
 Los Sprints ayudan a distribuir el trabajo equitativamente a lo largo de todo el proyecto. Dividir el trabajo en Sprints hará que la intensidad del trabajo tambien sea dividida a lo largo de un determinado número de [[Timeboxing|bloques de tiempo]].
 
-Con esto se logra el [[Scrum Values#Enfoque|Enfoque]] del [[Development Team|Equipo de Desarrollo]] en alcanzar los [[Sprint Goal|Objetivos del Sprint]].
+Con esto se logra el [[Scrum Values#Enfoque|Enfoque]] del [[Scrum Team|Equipo de Desarrollo]] en alcanzar los [[Sprint Goal|Objetivos del Sprint]].
 
 La cancelación del Sprint o su replanificación (sólo en circunstancias extremas), es claramente improductiva y traumática; dejar lo que están haciendo y comenzar a trabajar en algo totalmente distinto.
 
-Un Sprint puede ser cancelado antes de que el [[Timeboxing|bloque de tiempo]] llegue a su fin. Pero se debe tener en cuenta que sólo el [[Product Owner|Product Owner]] tiene la autoridad para cancelar el Sprint, aunque puede hacerlo bajo la influencia de los [[Stakeholders|Clientes]], del [[Development Team|Equipo de Desarrollo]] o del [[Scrum Master|Scrum Master]].
+Un Sprint puede ser cancelado antes de que el [[Timeboxing|bloque de tiempo]] llegue a su fin. Pero se debe tener en cuenta que sólo el [[Product Owner|Product Owner]] tiene la autoridad para cancelar el Sprint, aunque puede hacerlo bajo la influencia de los [[Stakeholders|Clientes]], del [[Scrum Team|Equipo de Desarrollo]] o del [[Scrum Master|Scrum Master]].
 
 Un Sprint se cancelaría cuando los requerimientos cambian considerablemente o si se considera que el [[Sprint Goal|Objetivo del Sprint]] tiene que redefinirse porque está quedándose obsoleto, es decir, no generará valor el producto del Sprint.
 

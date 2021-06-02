@@ -15,15 +15,15 @@ Es la unidad más granular de requerimientos expresados por el [[Product Owner|P
 - Ayuda a desarrollar [[Estimación de Historias de Usuario|estimaciones]] de alto nivel para el trabajo necesario.
 - Define las [[Criterios de Aceptación|pruebas de aceptación]] para validar el cumplimiento exitoso.
 
-Actúa como un acuerdo entre [[Stakeholders|clientes]] y el [[Scrum Team|equipo]] para discutir requerimientos detallados durante un [[Sprint]].
+Actúa como un acuerdo entre [[Stakeholders|clientes]] y el [[Principal Scrum Team|equipo]] para discutir requerimientos detallados durante un [[Sprint]].
 
 ### Composición
 Se compone de (3C's):
-- **Tarjeta (Card)**: Una descripción escrita de la Historia de Usuario de una manera entendible para el [[Scrum Team|equipo]], usada como recordatorio y para planificar. (Debe ser breve). No debe ser detallada. Refleja los elementos más importantes de la Historia de Usuario. Expresa el valor que se quiere conseguir desde el punto de vista del [[Stakeholders|usuario]]. Expresar un Historia de Usuario desde el punto de vista del [[Development Team|desarrollador]] o desde la organización es una mala práctica que refleja la incapacidad de pensar en el valor para el [[Stakeholders|usuario final]].
+- **Tarjeta (Card)**: Una descripción escrita de la Historia de Usuario de una manera entendible para el [[Principal Scrum Team|equipo]], usada como recordatorio y para planificar. (Debe ser breve). No debe ser detallada. Refleja los elementos más importantes de la Historia de Usuario. Expresa el valor que se quiere conseguir desde el punto de vista del [[Stakeholders|usuario]]. Expresar un Historia de Usuario desde el punto de vista del [[Scrum Team|desarrollador]] o desde la organización es una mala práctica que refleja la incapacidad de pensar en el valor para el [[Stakeholders|usuario final]].
 - **Conversación**: Conversaciones acerca de la Historia de Usuario que sirven para aclarar los detalles. Hay que saber responder a cuestiones sobre el valor y sobre el resultado esperado de la implementación. Esta conversación puede suceder en cualquier momento; es habitual que se produzca durante el [[Product Backlog Refinement|Refinamiento del Backlog]] o el [[Sprint Planning|Sprint Planning]].
-- **Confirmación**: La confirmación es un acuerdo que refleja que todas las personas implicadas, [[Product Owner|Product Owner]] y el [[Development Team|equipo de desarrollo]], [[Entendimiento Común|entienden]] cuales son los elementos, valor y el resultado esperado de la Historia de Usuario. Es un [[Criterios de Aceptación|criterio de aceptación]] (idealmente automatizado) que permita determinar cuándo la historia ha sido completada.
+- **Confirmación**: La confirmación es un acuerdo que refleja que todas las personas implicadas, [[Product Owner|Product Owner]] y el [[Scrum Team|equipo de desarrollo]], [[Entendimiento Común|entienden]] cuales son los elementos, valor y el resultado esperado de la Historia de Usuario. Es un [[Criterios de Aceptación|criterio de aceptación]] (idealmente automatizado) que permita determinar cuándo la historia ha sido completada.
 
-Generalmente el [[Product Owner|Product Owner]] le asigna una [[Priorización de Requerimientos|prioridad]] y el [[Development Team|equipo de desarrollo]] le asigna un [[Estimación de Historias de Usuario|tamaño estimado]].
+Generalmente el [[Product Owner|Product Owner]] le asigna una [[Priorización de Requerimientos|prioridad]] y el [[Scrum Team|equipo de desarrollo]] le asigna un [[Estimación de Historias de Usuario|tamaño estimado]].
 
 Una vez [[Estimación de Historias de Usuario|estimadas]] y [[Priorización de Requerimientos|priorizadas]] pasan a formar parte del [[Product Backlog|Product Backlog]].
 
@@ -31,8 +31,8 @@ Una vez [[Estimación de Historias de Usuario|estimadas]] y [[Priorización de R
 Información contenida en una Historia de Usuario:
 - Identificador de Historia: Generalmente un número y un nombre.
 - Descripción breve de la función o característica.
-- Tipo de Historia: Requisito del [[Stakeholders|Cliente]] o Requisito técnico del [[Development Team|Equipo de Desarrollo]].
-- Esfuerzo estimado: Valor [[Estimación de Historias de Usuario|estimado]] en [[05. Planning Poker|puntos]] dado por el [[Development Team|Equipo de Desarrollo]].
+- Tipo de Historia: Requisito del [[Stakeholders|Cliente]] o Requisito técnico del [[Scrum Team|Equipo de Desarrollo]].
+- Esfuerzo estimado: Valor [[Estimación de Historias de Usuario|estimado]] en [[05. Planning Poker|puntos]] dado por el [[Scrum Team|Equipo de Desarrollo]].
 - Valor estimado por el Cliente.
 - Requerimientos inciertos, llamado el factor de exploración.
 - Dependencias de la Historia de otras Historias de Usuario.
@@ -44,8 +44,8 @@ Múltiples Historias de Usuario podrían requerirse para completar una función.
 Las caracteristicas de una buena Historia de Usuario deben de cubrir el acronimo en ingles **INVEST**
 - **I**ndependientes: Las Historias de Usuario deben ser independientes unas de otras, y entregables como una unidad, si existen dos historias dependientes, se recomienda unirlas pero considerar dividirlas de tal manera que pudieran generarse más Historias de Usuario que no dependan unas de otras.
 - **N**egociables: Debe haber lugar para la negociación en cuanto a la naturaleza de la implementación. Se debe discutir con el [[Stakeholders|cliente]] el alcance de cada Historias de Usuario, y deberá quedar especificado en la validación de cada una.    
-- **V**aloradas por los [[Stakeholders|clientes]] (valorables): El [[Stakeholders|cliente]] debera determinar el valor que cada una de ellas representa. El valor que el [[Stakeholders|cliente]] puede determinar para una Historia de Usuario no es el mismo que le podría dar un [[Development Team|desarrollador]], por lo cual, debera existir una charla para llegar a un acuerdo y terminar el sistema a tiempo. Pero sin olvidar que lo mas importante es la opinion del [[Stakeholders|cliente]].
-- **E**stimables: Cada Historia de Usuario debera ser [[Estimación de Historias de Usuario|estimada]] según la complejidad y la experiencia de los [[Development Team|desarrolladores]], al finalizar, la suma de la [[Estimación de Historias de Usuario|estimación]] de cada una determinara el total de tiempo de desarrollo del sistema.
+- **V**aloradas por los [[Stakeholders|clientes]] (valorables): El [[Stakeholders|cliente]] debera determinar el valor que cada una de ellas representa. El valor que el [[Stakeholders|cliente]] puede determinar para una Historia de Usuario no es el mismo que le podría dar un [[Scrum Team|desarrollador]], por lo cual, debera existir una charla para llegar a un acuerdo y terminar el sistema a tiempo. Pero sin olvidar que lo mas importante es la opinion del [[Stakeholders|cliente]].
+- **E**stimables: Cada Historia de Usuario debera ser [[Estimación de Historias de Usuario|estimada]] según la complejidad y la experiencia de los [[Scrum Team|desarrolladores]], al finalizar, la suma de la [[Estimación de Historias de Usuario|estimación]] de cada una determinara el total de tiempo de desarrollo del sistema.
 - Pequeña**S**: Debera evitarse tener Historias de Usuario largas o grandes ya que esto dificulta determinar la [[Estimación de Historias de Usuario|estimación]] y su ejecución durante un [[Sprint]].    
 - Verificables/comprobables/evaluables (**T**est): Ya que las Historias de Usuario son requerimientos funcionales, deben ser posibles examinarlas, probarlas y evaluarlas para comprobar la exactitud basadose en los [[Criterios de Aceptación]] previamente suministrados.
 
@@ -66,7 +66,7 @@ Al escribir Historias de Usuario imagina todos los posibles escenarios.
 
 ### Separando las Historías de Usuario
 - Una Historia de Usuario debería ser corta (no más de 40 horas de trabajo).
-- Mantener cortas las Historias de Usuario permite al [[Development Team|equipo]] construir de forma creciente, obteniendo verificación a lo largo del camino.
+- Mantener cortas las Historias de Usuario permite al [[Scrum Team|equipo]] construir de forma creciente, obteniendo verificación a lo largo del camino.
 - Requiere un esfuerzo considerable de parte del [[Product Owner|Product Owner]] el escribir requerimientos a ese nivel de granularidad.
 
 Separar las Historias de Usuario es basándose en el marco general, por ejemplo:

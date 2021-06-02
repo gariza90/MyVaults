@@ -31,7 +31,7 @@ Enumera seis valores de gestión necesarias para reforzar una mentalidad de desa
 5. **Equipos**: Aumentamos el rendimiento a través de la rendición de cuentas por parte del grupo en cuestión de resultados y eficacia del equipo, responsabilidades que todos comparten.
 6. **Contexto**: Mejoramos la eficacia y la fiabilidad a través de estrategias, procesos y prácticas específicas en cada situación.
 
-El título *Declaración de interdependencia* tiene múltiples significados. Significa que los miembros del equipo del proyecto son parte de un todo interdependiente y no un grupo de individuos desconectados. Significa que los [[Scrum Team|equipos de proyecto]], sus [[Stakeholders|clientes y sus partes interesadas]] también son interdependientes. Los equipos de proyecto que no reconocen esta interdependencia rara vez tendrán éxito.
+El título *Declaración de interdependencia* tiene múltiples significados. Significa que los miembros del equipo del proyecto son parte de un todo interdependiente y no un grupo de individuos desconectados. Significa que los [[Principal Scrum Team|equipos de proyecto]], sus [[Stakeholders|clientes y sus partes interesadas]] también son interdependientes. Los equipos de proyecto que no reconocen esta interdependencia rara vez tendrán éxito.
 
 Estos valores también forman un conjunto interdependiente. Si bien cada uno es importante independientemente de los demás, los seis forman un sistema de valores que proporciona una visión moderna de la gestión de proyectos, particularmente los complejos e inciertos.
 

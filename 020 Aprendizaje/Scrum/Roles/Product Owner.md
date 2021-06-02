@@ -4,9 +4,9 @@
 
 Actúa en interés de los usuarios del producto o las [[Stakeholders|partes interesadas]] de un proyecto, lo cual, lo autoriza a tomar ciertas decisiones en nombre del cliente.
 
-Es uno de los roles más críticos del [[Scrum Team|equipo]] y del proceso [[Scrum]]. En consecuencia, es responsable de encaminar el éxito del proyecto.
+Es uno de los roles más críticos del [[Principal Scrum Team|equipo]] y del proceso [[Scrum]]. En consecuencia, es responsable de encaminar el éxito del proyecto.
 
-Es el encargado de maximizar el valor del producto entregado por el [[Development Team|equipo de desarrollo]].
+Es el encargado de maximizar el valor del producto entregado por el [[Scrum Team|equipo de desarrollo]].
 
 Es el responsable de maximizar el retorno de la inversión. Realizar [[análisis de costos vs beneficios]].
 
@@ -23,8 +23,8 @@ Toma decisiones acerca de los contenidos y la fecha de [[Release Plan|lanzamient
 Crea y gestiona el [[Product Backlog|Product Backlog]] y da:
 - **Claridad**: Sobre lo que cada elemento del [[Product Backlog|Product Backlog]] representa.
 - **Orden** a los elementos del [[Product Backlog|Product Backlog]] en función de su importancia o del valor que entrega cada uno de ellos para alcanzar las [[Sprint Goal|metas propuestas]].
-- **Valor optimizado** del trabajo desempeñado por el [[Development Team|equipo de desarrollo]] del producto.
-- **Transparencia y visibilidad** del [[Product Backlog|Product Backlog]] a todo el [[Scrum Team|equipo]], incluidas las [[Stakeholders|partes interesadas]].
+- **Valor optimizado** del trabajo desempeñado por el [[Scrum Team|equipo de desarrollo]] del producto.
+- **Transparencia y visibilidad** del [[Product Backlog|Product Backlog]] a todo el [[Principal Scrum Team|equipo]], incluidas las [[Stakeholders|partes interesadas]].
 - **Comprensión y entendimiento** a los miembros del equipo de desarrollo sobre lo que se espera lograr con cada uno de los elementos del Product Backlog.
 
 Participa en las reuniones del [[Sprint]].

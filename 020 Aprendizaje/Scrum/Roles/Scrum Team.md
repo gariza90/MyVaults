@@ -1,5 +1,5 @@
-# Development Team
-###### Equipo de Desarrollo
+# Scrum Team
+###### Equipo Scrum
 ---
 
 Cada miembro del equipo es llamado **Desarrollador**. Todos ellos contribuyen al desarrollo del producto.
@@ -21,7 +21,7 @@ Es responsable y comprometido con la entrega del [[Product Increment|incremento 
 
 Tiene autonomía completa para tomar cualquier decisión con el fin de alcanzar las metas propuestas, y para solicitar cualquier recurso que necesite (incluyendo entrenamiento adicional).
 
-Se encuentra estructurado de manera horizontal. No existe jerarquías dentro del [[Scrum Team|equipo]].
+Se encuentra estructurado de manera horizontal. No existe jerarquías dentro del [[Principal Scrum Team|equipo]].
 
 Conformado por personas de mútiples disciplinas y con la capacidad de ejercer múltiples funciones. Deben tener todas las habilidades necesarias para completar lo requerido por el [[Stakeholders|cliente]].
 

@@ -4,11 +4,13 @@ Links: [[Scrum - MOC]], [[Organización]]
 ###### Roles Scrum
 ---
 
+No existe jerarquías entre los roles.
+
 **Roles Centrales**
-- [[Scrum Team]]
+- [[Principal Scrum Team]]
 	- [[Product Owner]]
 	- [[Scrum Master]]
-	- [[Development Team]]
+	- [[Scrum Team]]
 
 **Roles No Centrales**
 - [[Stakeholders]]

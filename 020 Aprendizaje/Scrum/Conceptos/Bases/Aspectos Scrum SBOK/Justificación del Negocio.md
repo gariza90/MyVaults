@@ -15,7 +15,7 @@ Esta entrega temprana de resultados, y por lo tanto de valor, proporciona una op
 
 La adaptabilidad de [[Scrum]] permite que los objetivos y procesos del proyecto cambien si cambia su justificación del negocio.
 
-Es importante señalar que, si bien el [[Product Owner]] es el responsable principal de la justificación del negocio, otros miembros del [[Scrum Team|equipo]] también contribuyen considerablemente.
+Es importante señalar que, si bien el [[Product Owner]] es el responsable principal de la justificación del negocio, otros miembros del [[Principal Scrum Team|equipo]] también contribuyen considerablemente.
 
 ---
 

@@ -14,7 +14,7 @@ Se compone del [[Sprint Goal|objetivo del Sprint]] (Por qué), el conjunto de el
 
 Contiene las [[Historias de Usuario]] que describen las características y funciones de cada producto/proyecto en el [[Product Backlog|Product Backlog]] y que se definen en tareas concretas (a veces con subtareas).
 
-El [[Development Team|equipo]] es quien determina las características y funciones a incluir.
+El [[Scrum Team|equipo]] es quien determina las características y funciones a incluir.
 
 Se actualiza a lo largo del [[Sprint]] a medida que se aprende más.
 

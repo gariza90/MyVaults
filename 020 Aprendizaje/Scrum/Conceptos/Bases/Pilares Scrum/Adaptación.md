@@ -10,7 +10,7 @@ La retroalimentación obtenida a través de la [[Inspección]], se usa para hace
 
 La mejoras del proceso y el producto son permanentes.
 
-La adaptación depende del empoderamiento y la auto-gestión del [[Scrum Team|equipo de trabajo]].
+La adaptación depende del empoderamiento y la auto-gestión del [[Principal Scrum Team|equipo de trabajo]].
 
 La Adaptación se evidencia a través de:
 - Los [[Daily Scrum]].

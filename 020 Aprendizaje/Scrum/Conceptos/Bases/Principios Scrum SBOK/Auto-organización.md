@@ -4,13 +4,13 @@ Links: [[Scrum Principles]]
 ---
 
 Este principio se enfoca en los trabajadores de hoy en día, que entregan un valor considerablemente mayor cuando se auto-organizan, lo cual resulta en:
-- Motivación, lo cual conduce a un mejor nivel de rendimiento del [[Scrum Team|equipo]].
-- Mayor participación o involucramiento de los [[Scrum Team|equipos]].
-- [[Scrum Team|Equipos]] con un gran sentido de [[Compromiso]] y [[Responsabilidad]] compartida.
+- Motivación, lo cual conduce a un mejor nivel de rendimiento del [[Principal Scrum Team|equipo]].
+- Mayor participación o involucramiento de los [[Principal Scrum Team|equipos]].
+- [[Principal Scrum Team|Equipos]] con un gran sentido de [[Compromiso]] y [[Responsabilidad]] compartida.
 - Un ambiente innovador y creativo que es más propicio para el crecimiento.
 
 El estilo de liderazgo preferido en [[Scrum]] es el de [[Liderazgo sin Autoridad|liderazgo servicial]], el cual enfatiza el logro de resultados,  
-centrándose en las necesidades del [[Scrum Team|Equipo Scrum]].
+centrándose en las necesidades del [[Principal Scrum Team|Equipo Scrum]].
 
 Los principales objetivos de los equipos auto-organizados son los siguientes:
 - Entender la visión del proyecto y por qué el proyecto aporta valor a la organización.

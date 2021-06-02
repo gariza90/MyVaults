@@ -2,7 +2,7 @@
 ###### Refinamiento de la Pila de Producto
 ---
 
-**Roles**: [[Product Owner|Product Owner]], [[Development Team|Development Team]].
+**Roles**: [[Product Owner|Product Owner]], [[Scrum Team|Development Team]].
 **Cuando**: Cuando sea necesario.
 **Duración**: Máximo 10% de la duración del [[Sprint]].
 

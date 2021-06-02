@@ -3,13 +3,13 @@ Links: [[Scrum Pillars]]
 # Transparencia
 ---
 
-Permite que todas las facetas del proceso [[Scrum]] siempre sean observados por todo el [[Scrum Team|equipo]] de trabajo.
+Permite que todas las facetas del proceso [[Scrum]] siempre sean observados por todo el [[Principal Scrum Team|equipo]] de trabajo.
 
-Promociona un flujo de información accesible y transparente hacia todo el [[Scrum Team|equipo]] y crea una cultura abierta de trabajo.
+Promociona un flujo de información accesible y transparente hacia todo el [[Principal Scrum Team|equipo]] y crea una cultura abierta de trabajo.
 
 Todos los participantes deben compartir un [[Entendimiento Común|lenguaje común]] para referirse al proceso.
 
-Los que desempeñan el trabajo ([[Development Team|Development Team]], [[Scrum Master|Scrum Master]]) y los que inspeccionan el incremento resultante ([[Product Owner|Product Owner]]) deben compartir una común [[Definition of Done|Definición de Terminado]].
+Los que desempeñan el trabajo ([[Scrum Team|Development Team]], [[Scrum Master|Scrum Master]]) y los que inspeccionan el incremento resultante ([[Product Owner|Product Owner]]) deben compartir una común [[Definition of Done|Definición de Terminado]].
 
 La transparencia permite la [[Inspección]]. La [[Inspección]] sin transparencia es engañosa y derrochadora.
 

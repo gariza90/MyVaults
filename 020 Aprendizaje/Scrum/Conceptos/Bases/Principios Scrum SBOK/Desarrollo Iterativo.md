@@ -15,7 +15,7 @@ El [[Stakeholders|cliente]] tal vez no pueda definir requisitos muy concretos o 
 
 En cada ciclo o iteración, se revisa y mejora el producto entregando valor. Es importante señalar que este ciclo o iteracción no implica añadir funcionalidades en el producto, pero si revisión y mejora.
 
-El beneficio obtenido es, permitir la corrección a medida que todas las personas involucradas obtengan una mejor [[Entendimiento Común|comprensión]] de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa. Así, el tiempo y el esfuerzo requerido para alcanzar el punto final definitivo, se reduce considerablemente y el [[Scrum Team|equipo]] produce entregables que se adaptan mejor al valor esperado por el [[Stakeholders|cliente]].
+El beneficio obtenido es, permitir la corrección a medida que todas las personas involucradas obtengan una mejor [[Entendimiento Común|comprensión]] de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa. Así, el tiempo y el esfuerzo requerido para alcanzar el punto final definitivo, se reduce considerablemente y el [[Principal Scrum Team|equipo]] produce entregables que se adaptan mejor al valor esperado por el [[Stakeholders|cliente]].
 
 ---
 

@@ -4,7 +4,7 @@ Links: [[Scrum Artifacts]]
 ###### Incremento de Producto
 ---
 
-Al final de cada [[Sprint]], el [[Scrum Team|equipo]] es responsable de presentar un incremento de producto potencialmente entregable.
+Al final de cada [[Sprint]], el [[Principal Scrum Team|equipo]] es responsable de presentar un incremento de producto potencialmente entregable.
 
 Un incremento de producto es la suma de todos los elementos completados del [[Product Backlog|Product Backlog]] durante un [[Sprint]] y el valor de los incrementos de todos los Sprints anteriores.
 

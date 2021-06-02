@@ -3,7 +3,7 @@ Links: [[Scrum Pillars]]
 # Inspección
 ---
 
-El [[Scrum Team|equipo]] de trabajo debe inspeccionar frecuentemente los [[Scrum Artifacts|Artefactos de Scrum]] y el progreso alcanzado, para detectar variaciones indeseadas e identificar oportunidades de mejora.
+El [[Principal Scrum Team|equipo]] de trabajo debe inspeccionar frecuentemente los [[Scrum Artifacts|Artefactos de Scrum]] y el progreso alcanzado, para detectar variaciones indeseadas e identificar oportunidades de mejora.
 
 La revisión del proceso y el producto es constante, pero no debe ser tan frecuente como para que interfiera en el trabajo.
 

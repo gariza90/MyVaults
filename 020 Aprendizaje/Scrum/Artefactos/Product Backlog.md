@@ -4,7 +4,7 @@ Links: [[Scrum Artifacts]]
 ###### Pila o lista de Producto
 ---
 
-Es la única fuente de los requerimientos o requisitos que definen el alcance del proyecto para el [[Scrum Team|equipo]].
+Es la única fuente de los requerimientos o requisitos que definen el alcance del proyecto para el [[Principal Scrum Team|equipo]].
 
 Lista ordenada de características, funciones, requerimientos, mejoras y arreglos.
 
@@ -18,7 +18,7 @@ Se encuentra en [[Priorización de Requerimientos|repriorización]] constante.
 
 Consiste de elementos del Product Backlog (Product Backlog Items - PBI).
 - Son ordenados o [[Priorización de Requerimientos|priorizados]] por el valor del negocio, unicamente por el [[Product Owner|Product Owner]].
-- Son [[Estimación de Historias de Usuario|evaluados]] verticalmente por el [[Development Team|equipo de desarrollo]].
+- Son [[Estimación de Historias de Usuario|evaluados]] verticalmente por el [[Scrum Team|equipo de desarrollo]].
 - Se pueden dar por terminados dentro de un [[Sprint]].
 - Se seleccionan y refinan en el [[Sprint Planning|Sprint Planning]].
 - Cuando cumple la [[Definition of Done]] se genera un [[Product Increment|incremento de producto]].

@@ -4,9 +4,9 @@
 
 A través de la definición de listo, el [[Product Owner|Product Owner]] puede marcar [[Historias de Usuario]] del [[Product Backlog|Product Backlog]] como listas para trabajarse en un [[Sprint]].
 
-Trata de un conjunto de acuerdos que le permite al [[Scrum Team|equipo]] saber cuando esten listas para iniciar e incluirlas en el [[Sprint]].
+Trata de un conjunto de acuerdos que le permite al [[Principal Scrum Team|equipo]] saber cuando esten listas para iniciar e incluirlas en el [[Sprint]].
 
-Mejora las posibilidades del [[Scrum Team|equipo]] para cumplir con éxito el [[Sprint Goal|objetivo del Sprint]].
+Mejora las posibilidades del [[Principal Scrum Team|equipo]] para cumplir con éxito el [[Sprint Goal|objetivo del Sprint]].
 
 Es una parte integral de la actividad de [[Product Backlog Refinement|refinamiento del Product Backlog]] en forma de proceso continuo a lo largo del [[Sprint]] y no como una lista de verificación secuencial de lo que tenga que estar al 100% listo para entrar en un [[Sprint]].
 

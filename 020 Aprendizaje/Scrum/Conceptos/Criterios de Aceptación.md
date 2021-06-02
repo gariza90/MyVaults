@@ -3,7 +3,7 @@
 
 Detalla exactamente lo que se debe hacer para que el elemento del [[Product Backlog]] o una [[Historias de Usuario|Historia de Usuario]] se considera como completo(a) o terminado(a).
 
-Esto ayuda a los [[Scrum Team|equipos]] a mejorar el [[Entendimiento Común|entendimiento]], visualizando y [[Estimación de Historias de Usuario|estimando]], el trabajo a realizar.
+Esto ayuda a los [[Principal Scrum Team|equipos]] a mejorar el [[Entendimiento Común|entendimiento]], visualizando y [[Estimación de Historias de Usuario|estimando]], el trabajo a realizar.
 
 Cumplen dos funciones:
 - Clarificar el contexto.

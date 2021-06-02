@@ -29,7 +29,7 @@ Hay una alta demanda de certificaciones Scrum, ya que es, de lejos, la más popu
 
 Se basa:
 - Sobre la teoría del control de [[Proceso Empírico]] y el pensamiento [[LEAN]].
-- En el trabajo con los conocimientos y habilidades de los miembros del [[Scrum Team|equipo de trabajo]].
+- En el trabajo con los conocimientos y habilidades de los miembros del [[Principal Scrum Team|equipo de trabajo]].
 - En tomar decisiones basados en la información concreta obtenida de la *observación* (predicción de variables) que muestra el progreso del *desarrollo del producto*, *los cambios en el entorno* y los *comentarios de los clientes*.
 - En la *experimentación* para la validación de hipótesis.
 

@@ -27,7 +27,7 @@ Los [[Scrum Roles|roles]] y los artefactos son elementos del proceso general de 
  - Paso [[Product Backlog Refinement]].
  - Paso [[Release Plan]].
 
-Estos compromisos existen para reforzar el [[Proceso Empírico|empirismo]] y los [[Scrum Values]] para el [[Scrum Team|equipo]] y sus [[Stakeholders|clientes]].
+Estos compromisos existen para reforzar el [[Proceso Empírico|empirismo]] y los [[Scrum Values]] para el [[Principal Scrum Team|equipo]] y sus [[Stakeholders|clientes]].
 
 ---
 

@@ -4,7 +4,7 @@ Links: [[Scrum Events]], [[Timeboxing]]
 ###### Retrospectiva de la Iteración
 ---
 
-**Roles**: [[Product Owner|Product Owner]], [[Scrum Master|Scrum Master]], [[Development Team|Development Team]].
+**Roles**: [[Product Owner|Product Owner]], [[Scrum Master|Scrum Master]], [[Scrum Team|Development Team]].
 **Cuando**: Despúes del [[Sprint Review|Sprint Review]].
 **Duración**: 3 horas para un Sprint de 1 mes.
 
@@ -12,23 +12,23 @@ Links: [[Scrum Events]], [[Timeboxing]]
 
 Su enfoque principal es el Proceso de [[Scrum]].
 
-Es el evento que marca el caracter iterativo de la metodología. Es una reunión del [[Scrum Team|equipo]], por el equipo y para el equipo, dándole visibilidad y los faculta para tomar control y responsabilidad de las acciones.
+Es el evento que marca el caracter iterativo de la metodología. Es una reunión del [[Principal Scrum Team|equipo]], por el equipo y para el equipo, dándole visibilidad y los faculta para tomar control y responsabilidad de las acciones.
 
 Su propósito es, planificar maneras de aumentar la calidad y la efectividad.
 
 Es el evento en el cual se discuten los nuevos requerimientos, los cambios (en caso de que existan) o lo que hay que eliminar o modificar en el avance entregado al [[Stakeholders|cliente]].
 
-El [[Scrum Team|equipo]] inspecciona cómo fue el último [[Sprint]] con respecto a las personas, las interacciones, los procesos, las herramientas y su [[Definition of Done]]. Los elementos inspeccionados suelen variar según el ámbito del trabajo.
+El [[Principal Scrum Team|equipo]] inspecciona cómo fue el último [[Sprint]] con respecto a las personas, las interacciones, los procesos, las herramientas y su [[Definition of Done]]. Los elementos inspeccionados suelen variar según el ámbito del trabajo.
 
-Se identifican los supuestos que los llevaron por mal camino y se exploran sus orígenes. El [[Scrum Team|equipo]] analiza qué salió bien durante el [[Sprint]], qué problemas encontró y cómo se resolvieron (o no) esos problemas.
+Se identifican los supuestos que los llevaron por mal camino y se exploran sus orígenes. El [[Principal Scrum Team|equipo]] analiza qué salió bien durante el [[Sprint]], qué problemas encontró y cómo se resolvieron (o no) esos problemas.
 
-Ayuda al [[Scrum Team|equipo]] a crear o ejecutar acciones pensadas en la mejora continua del proceso.
+Ayuda al [[Principal Scrum Team|equipo]] a crear o ejecutar acciones pensadas en la mejora continua del proceso.
 
-El [[Scrum Team|equipo]] identifica los cambios más útiles para mejorar su efectividad. Las mejoras más impactantes se abordan lo antes posible. Incluso se pueden agregar al [[Sprint Backlog|Sprint Backlog]] para el próximo [[Sprint]].
+El [[Principal Scrum Team|equipo]] identifica los cambios más útiles para mejorar su efectividad. Las mejoras más impactantes se abordan lo antes posible. Incluso se pueden agregar al [[Sprint Backlog|Sprint Backlog]] para el próximo [[Sprint]].
 
 El [[Scrum Master|Scum Master]] alienta al equipo para que mejore dentro del marco de proceso [[Scrum]], su proceso de desarrollo y sus prácticas para hacerlos más efectivos y amenos para el siguiente [[Sprint]].
 
-El [[Scrum Team|equipo]] planifica formas de aumentar la calidad del producto mediante la [[Scrum Pillars#Adaptación|adaptación]] de la [[Definition of Done]].
+El [[Principal Scrum Team|equipo]] planifica formas de aumentar la calidad del producto mediante la [[Scrum Pillars#Adaptación|adaptación]] de la [[Definition of Done]].
 
 No es:
 - Una reunión para asignar culpabilidades.
@@ -42,7 +42,7 @@ Para el Sprint Retrospective se busca:
 - Recolectar datos.
 	- Crear una línea de tiempo donde las personas puedan ingresar sus notas.
 	- Divide el equipo en grupos pequeños.
-	- Pedir a los miembros del [[Scrum Team|equipo]] que recuerden todos los eventos: memorables, significativos a nivel personal o profesional, y que los escriban.
+	- Pedir a los miembros del [[Principal Scrum Team|equipo]] que recuerden todos los eventos: memorables, significativos a nivel personal o profesional, y que los escriban.
 	- Cuando todas la notas se integren a la línea de tiempo, invitar al equipo para que la revise.
 - Generar aprendizaje.
 	- Mediante los 5 por qués.
