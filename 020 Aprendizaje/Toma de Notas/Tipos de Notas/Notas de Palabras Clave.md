@@ -4,7 +4,7 @@ Links: [[Tipos de Notas]]
 # Notas de Palabras Clave
 ---
 
-Son similares a la [[notas índice]], construidas con notas existentes relacionadas por un [[Notas Orientadas a Conceptos|concepto o palabra clave]].
+Son similares a la [[Notas Índice]], construidas con notas existentes relacionadas por un [[Notas Orientadas a Conceptos|concepto o palabra clave]].
 
 %% Ampliar esta nota, ya que no es muy clara la definición y se confunde con la definición de las notas índice %%
 

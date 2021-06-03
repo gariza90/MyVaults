@@ -4,7 +4,7 @@ Links: [[Tipos de Notas]]
 # Notas Índice
 ---
 
-Representa un grupo de [[notas permanentes]] relacionadas por secciones.
+Representa un grupo de [[Notas Permanentes]] relacionadas por secciones.
 
 Son muy similares a una tabla de contenido, esquema de un artículo, etc., y se crean a partir de notas existentes.
 

@@ -4,7 +4,7 @@ Links: [[Tipos de Notas]]
 # Notas Bibliográficas
 ---
 
-Son ideas extraídas de un libro o artículo, y que posteriormente pueden ser transformadas como [[notas permanentes]] o [[Notas Densamente Vinculadas|vincularlas]] a notas existentes relacionadas por [[Notas Orientadas a Conceptos|conceptos]].
+Son ideas extraídas de un libro o artículo, y que posteriormente pueden ser transformadas como [[Notas Permanentes]] o [[Notas Densamente Vinculadas|vincularlas]] a notas existentes relacionadas por [[Notas Orientadas a Conceptos|conceptos]].
 
 Estas ideas deben ser:
 - Escritas con [[Notas Personalizadas|palabras propias]].

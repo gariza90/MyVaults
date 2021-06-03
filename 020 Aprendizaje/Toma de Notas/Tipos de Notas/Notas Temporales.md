@@ -8,7 +8,7 @@ Son recordatorios temporales de ideas repentinas.
 
 Estas se almacenan en algún tipo de bandeja de entrada.
 
-Son una especie de marcador para *tener presente* o *desarrollar más adelante* y que eventualmente se convertirán en [[notas permanentes]].
+Son una especie de marcador para *tener presente* o *desarrollar más adelante* y que eventualmente se convertirán en [[Notas Permanentes]].
 
 ---
 
