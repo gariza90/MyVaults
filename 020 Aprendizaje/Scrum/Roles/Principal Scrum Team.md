@@ -1,3 +1,5 @@
+Links: [[Scrum Roles]], [[Organización]]
+
 # Principal Scrum Team
 ###### Equipo Principal Scrum
 ---

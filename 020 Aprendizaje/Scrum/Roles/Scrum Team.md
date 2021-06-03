@@ -1,12 +1,14 @@
+Links: [[Scrum Roles]], [[Organización]]
+
 # Scrum Team
 ###### Equipo Scrum
 ---
 
 Cada miembro del equipo es llamado **Desarrollador**. Todos ellos contribuyen al desarrollo del producto.
 
-Es [[Scrum Principles#Auto-organización|auto-organizado]], auto-gestionado y auto-suficiente, empoderado.
+Es [[Auto-organización|auto-organizado]], auto-gestionado y auto-suficiente, empoderado.
 
-El Equipo de Desarrollo conforma un ambiente [[Scrum Principles#Colaboración|colaborativo]].
+El Equipo Scrum conforma un ambiente [[Colaboración|colaborativo]].
 
 Está compuesto por personas que:
 - Esten dispuestos a colaborar.
@@ -17,7 +19,7 @@ Está compuesto por personas que:
 - Sean comprometidos y esforzados.
 - Promuevan una buena actitud.
 
-Es responsable y comprometido con la entrega del [[Product Increment|incremento de producto]] funcional en cada Sprint.
+Es un grupo o equipo de personas responsables y comprometidas en entender los requerimientos del negocio especificados por el [[Product Owner]], de estimar las [[Historias de Usuario]] del [[Product Backlog]] y de la entrega del [[Product Increment|incremento de producto]] funcional en cada [[Sprint]].
 
 Tiene autonomía completa para tomar cualquier decisión con el fin de alcanzar las metas propuestas, y para solicitar cualquier recurso que necesite (incluyendo entrenamiento adicional).
 

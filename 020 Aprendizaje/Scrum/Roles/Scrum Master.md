@@ -1,16 +1,20 @@
+Links: [[Scrum Roles]], [[Organización]]
+
 # Scrum Master
 ###### Maestro Scrum
 ---
 
-Es un líder al servicio del [[Principal Scrum Team|equipo]]. Ejerce un [[Liderazgo sin Autoridad]].
+Es un líder al servicio del [[Principal Scrum Team|equipo]]. Ejerce un [[Liderazgo sin Autoridad]] o liderazgo servicial.
 
-Actúa como un *agente de cambio*. Es responsable de garantizar que todos los procesos de [[Scrum]] se sigan correctamente. Como una especie de moderador o facilitador.
+Actúa como un *agente de cambio*. Es responsable de garantizar que todos los procesos de [[Scrum]] se sigan correctamente. 
+
+Es un moderador o facilitador que asegura que el [[Scrum Team|equipo Scrum]] esteé dotado de un ambiente propicio para completar con éxito el desarrollo del producto..
 
 Ofrece *entrenamiento* y *soporte* sobre el proceso de Scrum al [[Scrum Team|equipo de desarrollo]] como al [[Product Owner|Product Owner]]
 
 Se asegura de que el [[Principal Scrum Team|equipo]] pueda *comunicarse con éxito* facilitando el intercambio de información.
 
-Guía a los miembros del [[Principal Scrum Team|equipo]] en ser [[Scrum Principles#Auto-organización|auto-gestionados]] y multifuncionales.
+Guía a los miembros del [[Principal Scrum Team|equipo]] en ser [[Auto-organización|auto-gestionados]] y multifuncionales.
 
 Ayuda a enfocar al [[Principal Scrum Team|equipo]] en crear los [[Product Increment|incrementos]] de alto valor que cumplan con la [[Definition of Done]].
 
@@ -32,7 +36,7 @@ Ayuda al [[Product Owner|Product Owner]]:
 - Encontrar técnicas para una definición de [[Sprint Goal|objetivos del producto]] y la gestión del [[Product Backlog|Product Backlog]].
 - Comprender la necesidad de tener y comunicar al [[Scrum Team|equipo]] los elementos del [[Product Backlog|Product Backlog]] de manera clara y concisa.
 - Establecer una planificación empírica de productos para un entorno [[Proceso Empírico#Complejo|complejo]].
-- Facilitar la [[Scrum Principles#Colaboración|colaboración]] de los [[Stakeholders|interesados]] según se solicite o necesite.
+- Facilitar la [[Colaboración|colaboración]] de los [[Stakeholders|interesados]] según se solicite o necesite.
 
 Sirve a la organización en:
 - Liderar, capacitar y guiar a la organización en su adopción de [[Scrum]].

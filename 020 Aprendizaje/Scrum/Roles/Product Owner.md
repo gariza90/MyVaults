@@ -1,3 +1,5 @@
+Links: [[Scrum Roles]], [[Organización]]
+
 # Product Owner
 ###### Dueño del Producto
 ---
@@ -9,6 +11,8 @@ Es uno de los roles más críticos del [[Principal Scrum Team|equipo]] y del pro
 Es el encargado de maximizar el valor del producto entregado por el [[Scrum Team|equipo de desarrollo]].
 
 Es el responsable de maximizar el retorno de la inversión. Realizar [[análisis de costos vs beneficios]].
+
+Es el responsable de articular los requisitos del [[Stakeholders|cliente]] y de mantener la justificación del negocio del proyecto.
 
 Debe definir y priorizar los requisitos técnicos del proyecto (elementos del [[Product Backlog|Product Backlog]]), agregando otros nuevos y descartando los obsoletos según sea necesario. La [[Priorización de Requerimientos|priorización]] es esencial para asegurar el tiempo y el presupuesto.
 
