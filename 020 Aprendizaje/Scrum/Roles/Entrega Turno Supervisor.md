@@ -39,19 +39,19 @@
 
 | Tanque | Ayer | Hoy | BSW Rebose | API Rebose | Carga |
 | --- | --- | --- | --- | --- | --- |
-| ATK-7204A | 10 | 10 | 1.8 | 14.3 |  |
-| ATK-7212 | 11 | 11 | 0.2 | 15.1 |  |
+| ATK-7204A | 10 | 10 | 1.8 | 14.3 | 16000 |
+| ATK-7212 | 11 | 11 | 0.2 | 15.1 | 22000 |
 | ATK-7204B | 13 | 13 | 32 | 13 |  |
 | ATK-7205B | 13 | 13 | 28 | 13 |  |
 | ATK-7206B | 15 | 15 | 4.6 | 13 |  |
 
 **Datos de Agua**
 
-**Piscina 7**: Nivel: **1.68 mts**, SS: **4**, OW: **0.71**
-**Estación Acacías**: Flujo: **2362** %% FIT-7217 %%, SS: **14**, OW: **1.39**
-**Estación Castilla 3**: Flujo: **0**
-**PAD1**: Flujo: ****, SS: **14**, OW: **1.39**
-**K1-K2**: Flujo:
+**Piscina 7**: Nivel: **1.69 mts** %% LIT-7274/88 %%, SS: **5**, OW: **1.02**
+**Estación Acacías**: Flujo: **57600** %% FIT-7217 %%, SS: **14**, OW: **1.39**
+**Estación Castilla 3**: Flujo: **0** %% FIT-7201A %%
+**PAD1**: Flujo: **350000** %% FIC-7606 %%, SS: **3**, OW: **1.52**
+**K1-K2**: Flujo: **103000** %% FIT-7220 %%
 
 ## Novedades de Mantenimiento
 ###### Reportar las diferentes novedades de mantenimiento desde el cambio del estado de los equipos que han ocurrido en el turno, indicando el equipo, el nuevo estado y hora del cambio. Incluir el resultado del análisis preliminar de falla de los equipos, en caso de que se haya presentado una o varias fallas durante el turno.
