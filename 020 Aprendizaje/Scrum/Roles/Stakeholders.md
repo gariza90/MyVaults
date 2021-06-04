@@ -6,14 +6,31 @@ Links: [[Scrum Roles]], [[Organización]]
 
 Cualquier persona cuyo interes es positiva o negativamente afectado por el proyecto, o cualquiera que pueda ejercer influencia sobre el proyecto.
 
-Aunque no tienen un papel central dentro del proceso [[Scrum]], considerar sus deseos y comentarios es clave para el éxito del proyecto. Los interesados pueden ser:
+Aunque no tienen un papel central dentro del proceso [[Scrum]], su interacción con el [[Scrum Team]] mediante el [[Product Owner]], proporcionan las entradas y la retroalimentación durante el desarrollo del proyecto, facilitando la creación del [[Producto]], lo cual es clave para el éxito del proyecto.
+
+Los interesados pueden ser:
 1. La gerencia.
 2. Los clientes.
 3. Los usuarios finales.
 4. Empleadores o contribuyentes externos
 5. [[Principal Scrum Team|Equipo Scrum]] en sí.
 
-Contrariamente a proyectos convencionales donde las partes interesadas terminarían siendo responsabilidad de un gerente, los [[Principal Scrum Team|equipos Scrum]] son autosuficientes, lo cual, hace que cada miembro del equipo tenga cierta influencia. Esto consiste en:
+Pueden influir en procesos de [[Scrum]] como:
+- El desarrollo de Épicas.
+- La creación del [[Product Backlog]].
+- La construcción del [[Release Plan]].
+- La participación en el [[Sprint Retrospective]].
+
+### Cliente
+Es la persona u organización que adquiere el producto, servicio o cualquier otro resultado del proyecto. Para cualquier organización, dependiendo del proyecto, puede haber clientes internos, como clientes externos.
+
+### Usuarios
+Es el individuo u organización que utiliza directamente el producto, servicio o cualquier otro resultado del proyecto. Al igual que los clientes, para cualquier organización, puede haber uusarios internos y externos. En algunos casos, los clientes y los usuarios pueden ser los mismos.
+
+### Patrocinadores
+Es la persona u organización que provee recursos y apoyo para el proyecto
+
+Contrariamente a proyectos convencionales donde las partes interesadas terminarían siendo responsabilidad de un gerente, los [[Principal Scrum Team|Equipos Scrum]] son autosuficientes, lo cual, hace que cada miembro del equipo tenga cierta influencia. Esto consiste en:
 - Identificar las partes interesadas y entender a qué clase pertenecen.
 - Evaluar conocimiento y habilidades.
 - Analizar el proyecto y asegurarse de que se cumplan sus necesidades.
