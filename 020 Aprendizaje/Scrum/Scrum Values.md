@@ -4,11 +4,11 @@ Links: [[Scrum - MOC]]
 ###### Valores Scrum
 ---
 
-[[Compromiso]]
-[[Coraje]]
-[[Enfoque]]
-[[Franqueza]]
-[[Respeto]]
+- [[Compromiso]]
+- [[Coraje]]
+- [[Enfoque]]
+- [[Franqueza]]
+- [[Respeto]]
 
 Estos valores dan dirección al [[Principal Scrum Team|equipo]] con respecto a su trabajo, acciones y comportamientos.
 
