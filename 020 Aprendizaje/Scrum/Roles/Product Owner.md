@@ -59,11 +59,24 @@ Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Pro
 | [[Comprometer Historias de Usuario]]             | - Facilita el [[Scrum Team]] y compromete las [[Historias de Usuario]].                                                                                                                                                                                                                     |
 | [[Identificar Tareas]]                           | - Explica las [[Historias de Usuario]] al [[Scrum Team]] mientras elabora la lista de tareas.                                                                                                                                                                                                                     |
 | [[Estimar Tareas]]                               | - Brinda orientación y aclaraciones al [[Scrum Team]] en la estimación de los esfuerzos para las tareas.                                                                                                                                                                                                                     |
-| [[Crear el Sprint Backlog]]                      | - Acalara los requerimientos empresariales al [[Scrum Team]].                                                                                                                                                                                                                     |
+| [[Crear el Sprint Backlog]]                      | - Aclara los requerimientos empresariales al [[Scrum Team]].                                                                                                                                                                                                                     |
 | [[Refinar el Backlog Priorizado del Producto]]   | - Refina el [[Product Backlog]].                                                                                                                                                                                                                     |
 | [[Demostrar y Validar el Sprint]]                | - Acepta/rechaza los entregables.<br>- Proporciona retroalimentación necesaria al [[Scrum Master]] y a los [[Scrum Team]].<br>- Actualiza el [[Release Plan]] y el [[Product Backlog]].                                                                                                                                                                                                                     |
 | [[Enviar Entregables]]                           | - Ayuda a enviar los [[Product Increment|Incremento de Producto]] y se coordina con el [[Stakeholders|cliente]]                                                                                                                                                                                                                     |
 | [[Retrospectiva del Proyecto]]                   | - Participa en las reuniones de [[Sprint Retrospective]].                                                                                                                                                                                                                     |
+
+Características deseables.
+- Experto en [[Scrum]].
+- Conocimiento de dominio del negocio.
+- Excelentes habilidades de comunicación.
+- Conocimiento de [[Scrum Processes|procesos de Scrum]].
+- Habilidad para manejar incertidumbres.
+- Habilidades de negociación.
+- Accesible.
+- Proactivo.
+- Decisivo.
+- Pragmático.
+- Orientado a las metas.
 
 ---
 

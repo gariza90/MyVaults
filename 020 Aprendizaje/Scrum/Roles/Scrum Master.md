@@ -60,11 +60,23 @@ Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Pro
 | [[Estimar Tareas]] | - Ayuda al [[Scrum Team]] a estimar el esfuerzo necesario para completar las tareas acordadas para el [[Sprint]]. |
 | [[Crear el Sprint Backlog]] | - Ayuda al [[Scrum Team]] a desarrollar el [[Sprint Backlog]] y el Sprint [[Burndown Chart]]. |
 | [[Crear Entregables]] | - Ayuda al [[Scrum Team]] a crear los entregables acordados para el [[Sprint]]<br>- Ayuda a actualizar el [[Scrum Board]] y el [[Impediment Log]]. |
-|  [[Realizar Daily Standup]]|- Se Asegura de que el [[Scrum Board]] y el [[Impediment Log]] permanezcan actualizados. |
+| [[Realizar Daily Standup]]|- Se Asegura de que el [[Scrum Board]] y el [[Impediment Log]] permanezcan actualizados. |
 | [[Refinar el Backlog Priorizado del Producto]] | - Organiza las reuniones de revisión del [[Product Backlog]].                                                                                                                                                                                                                                               |
 | [[Demostrar y Validar el Sprint]] | - Facilita la presentación de los entregables completados por el [[Scrum Team]] para la aprobación del [[Product Owner]].                                                                                        |
-| [[Retrospectiva del Sprint]] | - Garantiza que exista un ambiente ideal para  el [[Scrum Team]] en los [[Sprints]] sucesivos. |
+| [[Retrospectiva del Sprint]] | - Garantiza que exista un ambiente ideal para  el [[Scrum Team]] en los [[Sprint|Sprint]] sucesivos. |
 | [[Retrospectiva del Proyecto]] | - Representa al [[Principal Scrum Team]] para proporcionar lecciones del proyecto actual en caso de ser necesario.                                                                                                                                                                                                                      |
+
+Características deseables.
+- Experto en [[Scrum]].
+- Lider servicial.
+- Moderador.
+- Solucionador de Problemas.
+- Habilidades de coordinación.
+- Accesible.
+- Motivador.
+- Perceptivo.
+- Mentor.
+- Introspectivo.
 
 ---
 
