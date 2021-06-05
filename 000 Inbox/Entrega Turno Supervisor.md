@@ -28,9 +28,8 @@
 
 - Se realiza reunión de inicio de turno donde se establecen objetivos de turno y se hace énfasis en comportamientos HSE.  
 - Se realiza monitoreo de atmosfera por parte del operador contra incendio en puntos críticos de la estación.
-- Se realiza acompañamiento a procedimiento de desinfección en casino cayenas por parte de la firma Servicial.
 - Se evidencia falla en punto de apoyo (anclaje) en plataforma-pasarela ubicada en el patín de químicos ubicado cerca al Stap Portátil.
-- Se realizó toma de muestras de agua del despacho hacia el PAD1 y se toma muestras de Nafta a la descarga de las bombas de recibo, de acuerdo a solicitud realizada por la Ing. Andrea Carolina Guarín.
+- Se realizó intento de instalación de platina de orificio en la descarga de la bomba de pozo profundo hacia la planta de tratamiento de agua para reducir el caudal por condiciones de diseño de la planta, pero la platina de orificio es más grande de acuerdo al ANSI existente. La platina requiere de maquinarse en su perímetro y reducir aprox unos 2 mm alrededor para que encase en la brida.
 - Se realiza inspección en ronda de finalización por parte de los operadores de campo para la verificación de cajas de inspección y drenajes en busca de posibles fugas y/o reboses.
 
 ## Novedades Operacionales

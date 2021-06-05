@@ -1,5 +1,5 @@
 # HSE-G-071 Guía de Operación Estructurada
-- Forma parte del [[Modelo de gestión HSE]] dentro del elemento de operaciones.
+- Forma parte del [[Modelo de Gestión HSE]] dentro del elemento de operaciones.
 - Aplicación de las mejores prácticas en seguridad, comunicación, confiabilidad, monitoreo, documentación, análisis, seguimiento, aprendizaje y optimización de la operación.
 - Permite controlar, asegurar y mejorar los procesos operativos.
 - Maximiza el valor agregado de los [[Glosario#Activo industrial|activos]] operando con prácticas estandarizadas que garantizan la seguridad de las personas y la integridad de las instalaciones y el medio ambiente.

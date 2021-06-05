@@ -64,6 +64,9 @@ Documento que contiene lineamientos, procedimientos y descripción de las activi
 ### Objetivo operacional
 Hace referencia al propósito o reto que se quiere lograr durante el turno por parte de cada una de las áreas operativas de la organización. Debe ser especifico, medible, alcanzable, y realista.
 
+### Operación Estructurada
+Proceso sistemático y organizado que se desarrolla en todas las áreas operativas mediante la ejecución de mejores prácticas en seguridad, comunicación, confiabilidad, documentación, análisis, seguimiento, aprendizaje y optimización de la operación que nos permite controlar, asegurar y mejorar los procesos operativos logrando una operación segura, confiable, estandarizada y rentable.
+
 ### Procedimientos de operación
 Documentos que contienen el paso a paso para desarrollar de manera estructurada cualquier actividad propia de la operación, especificando los riesgos y controles asociados a su mitigación.
 
