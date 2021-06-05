@@ -7,7 +7,7 @@
 | --- | --- |
 | Tablero de Crudos | Rened Mahecha Puentes |
 | Tablero de Aguas | Hosman Enrique Melo |
-| Operador Crudos | Fabian Antonio Florez |
+| Operador Crudos | Angélica Popayán |
 | Operador Aguas | Hector Alfonso Cardoza |
 | Operador Despacho | Sebastián Felipe Bustamante |
 | Operador Stap Portatil | Helton Shneider Jaramillo |
@@ -15,7 +15,7 @@
 | Custodio OE | No hubo |
 
 - Auto capacitación en Marcos de Trabajo Administrativos SCRUM y OKR's.
-- Realización de curso en Success Factors
+- Realización de cursos en Success Factors sobre **Derechos Humanos y Empresa**, **Sistema de Aislamiento Seguro** y **Conducción Preventiva de Vehículos**.
 
 ## Aspectos de Atención Inmediata
 ###### Resaltar aspectos prioritarios para el Supervisor que recibe el turno, ya sea porque requiere atención inmediata o cuidado especial durante el turno que inicia porque se puede afectar la operación, la seguridad, el ambiente o la calidad de productos. Esta casilla debe ser diligenciada, si a juicio del Supervisor, debe enfatizar en un punto específico no reportado en otros renglones.
