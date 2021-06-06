@@ -73,22 +73,6 @@ Desigual, Mura crea Muda.
 ### Muri
 Sobrecarga, usualmente causado por Mura.
 
-## Las 5S
-### Seiri - Separar
-Eliminar elementos innecesarios.
-
-### Seiso - Limpiar
-Limpiar e inspeccionar.
-
-### Seiton - Ordenar
-Colocar los pasos del proceso en una secuencia más significativa evitando retrabajos y retrocesos.
-
-### Seiketsu - Estandarizar
-Crear instrucciones de trabajo y controles.
-
-### Shitsuke - Sustentar
-Crear métricas clave del proceso, para la mejora continua.
-
 ---
 
 ## Referencias
