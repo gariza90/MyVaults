@@ -1,3 +1,5 @@
+Links: [[Curso OE Sucess Factors]]
+
 # HSE-G-071 Guía de Operación Estructurada
 - Forma parte del [[Modelo de Gestión HSE]] dentro del elemento de operaciones.
 - Aplicación de las mejores prácticas en seguridad, comunicación, confiabilidad, monitoreo, documentación, análisis, seguimiento, aprendizaje y optimización de la operación.
@@ -45,7 +47,7 @@
 ## Prácticas
 ### Práctica 1: Entrega y Recibo de Turno
 - Comunicación y aceptación del reporte de turno.
-- Realización de la sección de inicio de turno y cierre de turno.
+- Realización de la sesión de inicio de turno y cierre de turno.
 - Documentación de las acciones de reporte de turno.
 - Emisión de las directrices del responsable del área.
 

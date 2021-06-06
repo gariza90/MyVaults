@@ -30,6 +30,23 @@ Para controlar los riegos se debe hacer una verificación periódica del cumplim
 | No ejecutar Acciones costo efectivas o ejecutar acciones No Costo Efectivas. | Verificar que se cumpla el análisis operacional en cada turno. | Registro de asistencia generado en el portal de compromisos o en físico \*Evidencia documentada de las acciones definidas y su cumplimiento en la herramienta definida por cada negocio \* Reporte del cumplimiento de las ventanas operativas y las guías de control generado en la herramienta que maneje cada negocio. | Jefes de Departamento o Coordinadores (Dueño de las áreas operativas dependiendo de la vicepresidencia). | Por Turno |
 | No ejecutar Acciones costo efectivas o ejecutar acciones No Costo Efectivas. | Verificar el cumplimiento de las metas del negocio. | Reporte del cumplimiento de los objetivos de resultado de cada negocio en la herramienta establecida para su manejo. | Jefes de Departamento o Coordinadores. | Mensual |
 
+## Fase 1: Preparación
+En todo este proceso es muy importante la [[comunicación efectiva]], ya que el lenguaje da sentido, comprensión, entendimiento y permite crear realidades. Toda conducta tiene valor de mensaje, es decir, es comunicación y por más que uno lo intente, no puede dejar de comunicar.
+
+Actividad o inactividad, palabras o silencio, tienen siempre valor de mensaje, influyen sobre los demás que, a su vez, no pueden dejar de responder a tales comunicaciones y por tanto, también comunican. Recuerda que el lenguaje tiene dos facetas: hablar y escuchar.
+
+Las organizaciones no pueden existir sin comunicación, ya que gracias a esta es posible acordar el trabajo que se va a realizar e intercambiar instrucciones que permitan alcanzar el logro de metas y objetivos conversacionales.
+
+Mediante una [[comunicación efectiva]] se garantiza el entendimiento de las condiciones operacionales y la continuidad de los objetivos de HSE, calidad y producción.
+
+### Práctica 1: Entrega y Recibo de Turno
+El primer paso para la preparación de la operación estructurada, es la entrega y recibo de turno. Teniendo como base el reporte del turno que se entrega, se acepta el reporte y posteriormente se verifica la información.
+
+Para la ejecución práctica de entrega y recibo de turno en Ecopetrol, debes tener en cuenta las directrices diarias. Estas son un elemento fundamental para la orientación y alineación de todo el equipo de trabajo, es importante seguir el orden del proceso.
+
+Ver [[Práctica 1. Entrega y Recibo de Turnos]].
+[[Reportes de turno por cargos]].
+
 ---
 
 ## Referencias
