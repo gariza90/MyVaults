@@ -39,6 +39,16 @@
 ## Novedades Operacionales
 ###### Reporta el cumplimiento de las instrucciones diarias del turno, lo relacionado con el estado del área o unidad operativa a su cargo, paradas, apagadas, disminución de carga, rata o flujo, desviaciones del programa, equipos en proceso de arrancada, trabajos operacionales realizados (purga o drenaje de un sistema, limpieza de equipo o línea, aislamiento o bloqueo, preparación de un sistema para mantenimiento, etc.) y acciones operacionales a realizar en el siguiente turno. Reportar las acciones de mejora resultado del análisis operacional (GAC-G-294 Guía de la práctica de análisis operacional de unidades operativas de ECOPETROL S.A.) orientados a la optimización del área o unidad y que garanticen condiciones de operación dentro de guías de control, productos con calidad y cumplir con el programa de producción o transporte.
 
+La planta de tratamiento de agua potable se encuentra no disponible por daño (fuga) en la tubería de PVC en punto ubicado en box culvert ubicado en cruce de vía.
+
+Se instaló platina de orificio en la descarga de la bomba hacia la planta de tratamiento, sin embargo el caudal enviado es muy alto aún generando rebose de agua en las bandejas de entrada del tanque clarificador de la planta.
+
+Se requiere operación de la planta de manera manual para el suministro de agua hacia las oficinas de laboratorio de Bureau Veritas.
+
+El suministro de agua continúa a través de carrotanque con agua captada de la estación Castilla 1. La tubería de llegada a los tanques de cayenas proveniente de la planta potabilizadora se encuentra con altas trazas de sólidos. Sigue pendiente la revisión y/o cambio de esta línea.
+
+Se realiza drenaje y cambio de agua de la torre de enfriamiento de la URV, se presenta diferencia de presión en la succión de las bombas de esta torre %% Ampliar más %%
+
 **Proyectada a las 5:30 am**
 30.150 Bbls
 
@@ -115,34 +125,17 @@
 | Estación Castilla 3 | - | 0 | - | - | %% FIT-7201A %%
 
 **Crudos**
-- Los pozos C17, C27, C564 y C598 continúan apagado por vertimiento.
-- La URV fuera de servicio, operando solo la TEA.
-- Se continua con las sondas de los ATK7212/04B/05B/06B en manual.
-- 19:55 queda alineado el ATK7213 con la bomba AP7202F para la mezcla de PNC con el despacho de SF.
-- 20:28 queda suspendido el recibo de nafta por pase en válvulas de seguridad en planta Miraflores.
-- 21:00 se inició el drenaje de agua de la torre de enfriamiento ATE-7256 de la URV para dejarla vacía.
-- 22:20 se inicia nuevamente el recibo de nafta a 90bls/h de poliandino
-- 23:00 queda parado la recirculación del FT3.
-- 23:20 se suspende el despacho de PNC del ATK7213.
-- 23:30 queda parado los recibos y despacho de crudos.
-- 00:15 se inicia los despachos de los FT3 y 4 hacia el ATK7209A.
-- 00:25 se inicia los recibos y despacho de crudos.
-- 02:00 se alinea el ATK7213 los recibos de EA1 y PNC del ATK7209A.
-- 03:50 se terminó el despacho de los FT3 y 4 hacia el ATK7209A
-- 04:30 se alinea los recibos de crudo de la EA1 y EC2 hacia el ATK7216
+
 
 **Aguas**
-- 18:52 Se finaliza drenaje de decantadores hacia foso de torres, se desaloja lodos hacia los lechos de secado.
-- 21:10 Se relaiza recuperación de aceite de los CPI's del STAP1 y STAP2.
-- 00:15 Se realiza retrolavados del sistema de filtración popr calidad de salida.
-- 03:00 Termina ciclo de retro lavados al sistema de filtración con un tiempo de descarga de 20 minutos para los filtros AF-7240 A/B/C/D/E/F/ y 12 minutos para el AF7240G. No se aplica bioclean para el retro lavado.
+
 
 
 ## Novedades de Mantenimiento
 ###### Reportar las diferentes novedades de mantenimiento desde el cambio del estado de los equipos que han ocurrido en el turno, indicando el equipo, el nuevo estado y hora del cambio. Incluir el resultado del análisis preliminar de falla de los equipos, en caso de que se haya presentado una o varias fallas durante el turno.
 
 - Personal de Confipetrol Electricidad realiza:
-	- Mantenimiento preventivo a tablero de distribución ubicado en el STAP-1.
-	- Mantenimiento preventivo AP-7295 del Compresor Cooper.
+	
 - Personal de Confipetrol Instrumentos realiza:
-	- Revisión de PIT de Troncal Sur (sin tag) que se encontró en falla, se deja fuera de servicio por falla en las baterías, pendiente la consecución de repuestos.
+	
+- Personal de Confipetrol Mecánica realiza:

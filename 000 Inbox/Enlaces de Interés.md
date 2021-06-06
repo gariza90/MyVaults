@@ -3,6 +3,8 @@
 
 Enlaces a páginas web para su lectura, estudio y posterior organización.
 
+# Zettelkasten
+
 **Enfoque: los principios de Zettelkasten**
 [Zettelkasten - Cómo un erudito Alemán fue tan increíblemente productivo - medium.com](https://medium.com/voces-en-espa%C3%B1ol/zettelkasten-c%C3%B3mo-un-erudito-alem%C3%A1n-fue-tan-incre%C3%ADblemente-productivo-b16643e170cc)
 
@@ -34,3 +36,7 @@ Enlaces a páginas web para su lectura, estudio y posterior organización.
 
 
 [About these notes - andymatuschak.org](https://notes.andymatuschak.org/About_these_notes)
+
+# OKR's
+
+[Welcome to OKRs Setting The Foundation](https://www.whatmatters.com/get-started/)
