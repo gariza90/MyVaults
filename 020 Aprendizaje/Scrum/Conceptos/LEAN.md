@@ -1,3 +1,5 @@
+Links: [[Kaizen]], [[5S]], [[TPM]], [[Monozukuri]], [[SPT]]
+
 # LEAN
 ---
 
