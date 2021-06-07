@@ -14,3 +14,4 @@ El Portfolio Backlog incorpora el [[Product Backlog]] de todos los [[Programa Sc
 ---
 
 ## Referencias
+[La necesidad creciente de la Gestión del Portafolio de proyectos - obsbusiness.school](https://www.obsbusiness.school/blog/la-necesidad-creciente-de-la-gestion-del-portafolio-de-proyectos)
