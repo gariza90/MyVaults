@@ -24,7 +24,8 @@ Esto ayuda a las personas claves que toman decisiones a entender la necesidad em
 Ayuda igualmente al [[Product Owner]] en la elaboración del [[Product Backlog]] tomando en cuenta las expectativas empresariales de la alta gerencia y de los [[Stakeholders]].
 
 Aplica a:
-- [[Portafolio Scrum|Portafolios]], [[Programa Scrum|Programas]] y [[Proyecto Scrum|P]]
+- [[Portafolio Scrum|Portafolios]], [[Programa Scrum|Programas]] y [[Proyecto Scrum|Proyectos]] en cualquier industria.
+- [[Producto|Productos]], servicios o cualquier otro resultado que se entregue a los [[Stakeholders#Cliente|Clientes]].
 
 ---
 
