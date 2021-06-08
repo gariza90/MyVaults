@@ -17,6 +17,15 @@ La adaptabilidad de [[Scrum]] permite que los objetivos y procesos del proyecto 
 
 Es importante señalar que, si bien el [[Product Owner]] es el responsable principal de la justificación del negocio, otros miembros del [[Principal Scrum Team|equipo]] también contribuyen considerablemente.
 
+Es importante que una organización lleve a cabo una adecuada justificación del negocio y elabore una declaración de la visión del [[Proyecto Scrum|proyecto]] viable antes de dar inicio a cualquier proyecto.
+
+Esto ayuda a las personas claves que toman decisiones a entender la necesidad empresarial de cambio o de nuevo producto o servicio, así como la justificación para seguir adelante con un proyecto.
+
+Ayuda igualmente al [[Product Owner]] en la elaboración del [[Product Backlog]] tomando en cuenta las expectativas empresariales de la alta gerencia y de los [[Stakeholders]].
+
+Aplica a:
+- [[Portafolio Scrum|Portafolios]], [[Programa Scrum|Programas]] y [[Proyecto Scrum|P]]
+
 ---
 
 ## Referencias

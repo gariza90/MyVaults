@@ -17,12 +17,6 @@ Son los puntos de referencia que se pueden medir y que rastrean el progreso haci
 
 Normalmente son de 3 a 5 por objetivo.
 
-bureauveritas.labec2@gmail.com
-EC2junio2021
-
-bureauveritas.labec2@gmail.com
-EC3junio2021
-
 ---
 
 ## Referencias

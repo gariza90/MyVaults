@@ -16,6 +16,12 @@ Es el responsable de articular los requisitos del [[Stakeholders#Cliente|cliente
 
 Se le conoce también como la Voz del [[Stakeholders#Cliente|Cliente]], ya que es quien se se asegura de las necesidades explícitas e implícitas del cliente, que estas se reflejen en los elementos del [[Product Backlog]] y que más adelante se utilicen para crear el [[Product Increment|incremento]] o el [[Producto]] para el [[Stakeholders#Cliente|cliente]].
 
+Es el encargado de mantener la participación de las [[Stakeholders|Partes Interesadas]].
+- Asegura la colaboración efectiva y la participación de los [[Stakeholders|Partes Interesadas]] en el [[Proyecto Scrum|Proyecto]].
+- Evalúa continuamente el impacto en el negocio.
+- Mantiene una comunicación constante con los [[Stakeholders|Partes Interesadas]].
+- Administra las expectativas de los [[Stakeholders|Partes Interesadas]].
+
 Es el responsable de asegurar los recursos financieros del proyecto al inicio y durante su transcurso.
 
 Debe definir y priorizar los requisitos técnicos del proyecto (elementos del [[Product Backlog]]), agregando otros nuevos y descartando los obsoletos según sea necesario. La [[Priorización de Requerimientos|priorización]] es esencial para asegurar el tiempo y el presupuesto.
@@ -49,7 +55,7 @@ Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Pro
 | Proceso                                          | Responsabilidades                                                                                                                                                                                                    |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Crear la visión del proyecto]]                 | - Define la visión del proyecto.<br>- Ayuda a crear el acta constitutiva del proyecto y su presupuesto.                                                                                                              |
-| [[Identificar al Scrum Master y Stakeholder(s)]] | - Ayuda a finalizar la elección del [[Scrum Master]] para el Proyecto.<br>Identifica a los [[Stakeholders]].                                                                                                         |
+| [[Identificar al Scrum Master y Stakeholder(s)]] | - Ayuda a finalizar la elección del [[Scrum Master]] para el Proyecto.<br>Identifica a los [[Stakeholders\|Partes Interesadas]].                                                                                                         |
 | [[Formar Equipos Scrum]]                         | - Ayuda a determinar quiénes serán los miembros del [[Scrum Team\|Equipo Scrum]].<br>- Ayuda a desarrollar un plan de [[Colaboración]].<br>- Ayuda a desarrollar el plan del equipo con el(los) [[Scrum Master]](s). |
 | [[Desarrollar Épica(s)]]                         | - Crea épicas y prototipos (personas)                                                                                                                                                                                |
 | [[Crear el Backlog Priorizado del Producto]]     | - Prioriza los elementos en el [[Product Backlog]].<br>- Establece la [[Definition of Done\|Definición de Terminado]].                                                                                                                     |
