@@ -14,7 +14,7 @@ El propósito de este evento es permitir al [[Scrum Team|equipo de desarrollo]] 
 
 Durante este evento, cada miembro del [[Scrum Team|equipo]] informa sobre lo que ha estado haciendo desde el último Daily Scrum, qué hará hasta el próximo Daily Scrum y qué obstaculiza su trabajo.
 
-El [[Scrum Team|equipo de desarrollo]] puede seleccionar la estructura y las técnicas que deseen, siempre que su Daily Scrum se centre en el progreso hacia el [[Sprint Goal|objetivo del Sprint]] y produzca un plan viable para el siguiente día de trabajo. Esto crea [[Scrum Values#Foco Enfoque|enfoque]] y mejora la [[Scrum Principles#Auto-organización|auto-gestión]].
+El [[Scrum Team|equipo de desarrollo]] puede seleccionar la estructura y las técnicas que deseen, siempre que su Daily Scrum se centre en el progreso hacia el [[Sprint Goal|objetivo del Sprint]] y produzca un plan viable para el siguiente día de trabajo. Esto crea [[Scrum Values#Foco Enfoque|enfoque]] y mejora la [[Scrum Principles SBOK#Auto-organización|auto-gestión]].
 
 El [[Scrum Master|Scrum Master]] sólo enseña al [[Scrum Team|equipo de desarrollo]] para que mantenga el Daily Scrum en el [[Timeboxing|límite de tiempo]] establecido.
 

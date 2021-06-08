@@ -13,6 +13,7 @@
 
 Se apoya las actividades relevantes del custodio de Confiabilidad, teniendo en cuenta que éste fue programado en el horario día para la ejecución de las mediciones fugítivas.
 
+
 ### Permisos de Trabajo
 
 | Estado | Cant |

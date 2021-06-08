@@ -44,7 +44,7 @@ Sirve a la organización en:
 - Ayudar a los empleados y los interesados a comprender y aplicar un [[Proceso Empírico|enfoque empírico]] para el trabajo [[Proceso Empírico#Complejo|complejo]].
 - Elimina las barreras entre los interesados y los [[Principal Scrum Team|equipos]].
 
-Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes|Procesos de Scrum]].
+Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes SBOK|Procesos de Scrum]].
 
 | Proceso | Responsabilidades |
 | --- | --- |

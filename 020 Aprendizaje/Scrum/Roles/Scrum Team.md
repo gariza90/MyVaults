@@ -25,7 +25,7 @@ Son responsables de:
 
 Participa en los eventos del [[Sprint]].
 
-Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes|Procesos de Scrum]].
+Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes SBOK|Procesos de Scrum]].
 
 | Proceso | Responsabilidades |
 | --- | --- |

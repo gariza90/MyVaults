@@ -1,4 +1,4 @@
-Links: [[Scrum Principles]], [[Priorización de Requerimientos]]
+Links: [[Scrum Principles SBOK]], [[Priorización de Requerimientos]]
 
 # Priorización basada en el Valor
 ---

@@ -10,7 +10,7 @@ El tablero se divide tradicionalmente en tres categorías: *Pendientes*, *En cur
 - Luego, durante el [[Sprint]], los miembros del [[Scrum Team|equipo]] deciden que elementos les gustaría completar. Toman la tarea y la mueven a la columna de *En curso*.
 - Cuando completan la tarea la mueven a *Terminado*.
 
-El tablero debe estar ubicado en un área central donde el equipo puedan verlo y acceder fácilmente. Esto ayuda a la [[Scrum Pillars#Transparencia|transparencia]] y a crear un espacio de trabajo más [[Scrum Principles#Colaboración|colaborativo]].
+El tablero debe estar ubicado en un área central donde el equipo puedan verlo y acceder fácilmente. Esto ayuda a la [[Scrum Pillars#Transparencia|transparencia]] y a crear un espacio de trabajo más [[Scrum Principles SBOK#Colaboración|colaborativo]].
 
 Algunos de los más usados en [[Scrum]] son:
 - Cuadros [[Burndown Chart|Burn-Down]] y Burn-Up.

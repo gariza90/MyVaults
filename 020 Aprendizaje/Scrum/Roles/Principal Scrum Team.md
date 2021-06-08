@@ -23,7 +23,7 @@ Generalmente de cinco a diez personas máximo.
 
 Es responsable de todas las actividades relacionadas con el producto, desde la colaboración con los [[Stakeholders|interesados o clientes]], la [[Scrum Pillars#Inspección|verificación]], el [[Scrum Pillars#Adaptación|mantenimiento]], la operación, la experimentación, la investigación y el desarrollo, y cualquier otra cosa que se necesaria.
 
-Están [[Scrum Principles#Auto-organización|estructurados y empoderados]] por la organización para gestionar su propio trabajo, significa que deciden internamente quién hace qué, cuándo y cómo.
+Están [[Scrum Principles SBOK#Auto-organización|estructurados y empoderados]] por la organización para gestionar su propio trabajo, significa que deciden internamente quién hace qué, cuándo y cómo.
 
 Es responsable de crear un [[Product Increment|incremento de producto]] valioso y útil en cada [[Sprint]].
 

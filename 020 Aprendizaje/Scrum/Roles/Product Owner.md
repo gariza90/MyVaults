@@ -44,7 +44,7 @@ Un Product Owner debe tener:
 - **Autoridad**: Para decidir lo que hay que hacer.
 - **Disponibilidad**: Para clarificar cualquier duda al equipo y entender las necesidades del [[Stakeholders|cliente]].
 
-Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes|Procesos de Scrum]].
+Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes SBOK|Procesos de Scrum]].
 
 | Proceso                                          | Responsabilidades                                                                                                                                                                                                    |
 | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ Características deseables.
 - Experto en [[Scrum]].
 - Conocimiento de dominio del negocio.
 - Excelentes habilidades de comunicación.
-- Conocimiento de [[Scrum Processes|procesos de Scrum]].
+- Conocimiento de [[Scrum Processes SBOK|procesos de Scrum]].
 - Habilidad para manejar incertidumbres.
 - Habilidades de negociación.
 - Accesible.

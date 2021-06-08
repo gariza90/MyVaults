@@ -17,7 +17,7 @@ Guía oficial de Scrum 2020.
 
 Guía SBOK - Cuerpo de Conocimiento de Scrum.
 
-- [[Scrum Advantages]]
-- [[Scrum Principles]]
-- [[Scrum Aspects]]
-- [[Scrum Processes]]
+- [[Scrum Advantages SBOK]]
+- [[Scrum Principles SBOK]]
+- [[Scrum Aspects SBOK]]
+- [[Scrum Processes SBOK]]

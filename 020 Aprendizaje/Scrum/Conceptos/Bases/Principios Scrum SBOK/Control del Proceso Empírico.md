@@ -1,4 +1,4 @@
-Links: [[Scrum Principles]], [[Scrum Pillars]]
+Links: [[Scrum Principles SBOK]], [[Scrum Pillars]]
 
 # Control del Proceso Empírico
 ---

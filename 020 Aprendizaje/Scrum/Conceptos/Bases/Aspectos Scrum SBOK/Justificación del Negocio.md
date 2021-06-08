@@ -1,4 +1,4 @@
-Links: [[Scrum Aspects]]
+Links: [[Scrum Aspects SBOK]]
 
 # Justificación del Negocio
 ---

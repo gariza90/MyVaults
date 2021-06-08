@@ -1,4 +1,4 @@
-Links: [[Scrum Principles]]
+Links: [[Scrum Principles SBOK]]
 
 # Timeboxing
 ###### Bloques de Tiempo
