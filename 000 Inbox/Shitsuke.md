@@ -12,3 +12,4 @@ El objetivo de esta etapa es fomentar los esfuerzos para la mejora continua, cer
 
 ## Referencias
 [What's that 5S? - YouTube](https://www.youtube.com/watch?v=Pu7HIeQveIY&t=206s)
+[5S Done Right - opexsociety.org](https://opexsociety.org/body-of-knowledge/5s-done-right/)

@@ -12,3 +12,4 @@ El objetivo de esta etapa es mantener el orden y prevenir la aparición del deso
 
 ## Referencias
 [What's that 5S? - YouTube](https://www.youtube.com/watch?v=Pu7HIeQveIY&t=206s)
+[5S Done Right - opexsociety.org](https://opexsociety.org/body-of-knowledge/5s-done-right/)
