@@ -10,3 +10,4 @@ El objetivo de esta etapa es categorizar los elementos disponibles, lo útil de 
 ---
 
 ## Referencias
+[What's that 5S? - YouTube](https://www.youtube.com/watch?v=Pu7HIeQveIY&t=206s)

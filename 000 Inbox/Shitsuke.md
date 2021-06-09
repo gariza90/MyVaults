@@ -10,3 +10,4 @@ El objetivo de esta etapa es fomentar los esfuerzos para la mejora continua, cer
 ---
 
 ## Referencias
+[What's that 5S? - YouTube](https://www.youtube.com/watch?v=Pu7HIeQveIY&t=206s)
