@@ -1,9 +1,10 @@
 Links: [[5S]], [[LEAN]]
 
 # Seiketsu
+###### Estandarización
 ---
 
-*Estandarización*. Crear instrucciones, normas, procedimientos y controles para mantener la limpieza, el orden y una buena condición del área de trabajo.
+Crear instrucciones, normas, procedimientos y controles para mantener la limpieza, el orden y una buena condición del área de trabajo.
 
 El objetivo de esta etapa es mantener el orden y prevenir la aparición del desorden.
 

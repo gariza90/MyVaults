@@ -1,9 +1,12 @@
 Links: [[5S]], [[LEAN]]
 
 # Seiso
+###### Limpieza
 ---
 
-*Limpieza*. Suprimir la suciedad. Limpiar e inspeccionar el espacio de trabajo como parte de las tareas que un trabajador puede realizar para lograr mayor control, conocimiento y, organización para lograr finalmente procesos fiables.
+Suprimir la suciedad. Limpiar e inspeccionar el espacio de trabajo como parte de las tareas que un trabajador puede realizar para lograr mayor control, conocimiento y, organización para lograr finalmente procesos fiables.
+
+Poco a poco se van [[Seiketsu|estandarizando]] a base de prueba y error bajo el ciclo [[PHVA]].
 
 El objetivo de esta etapa es aprovechar lugares despejados.
 

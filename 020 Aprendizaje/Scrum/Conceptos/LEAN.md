@@ -63,18 +63,6 @@ Evolución de los sistemas de gestión y liderazgo, incorporando rutinas de cont
 
 Desarrollo de los valores presupuestos necesarios para la incorporacón de la filosofía a la cultura de la empresa.
 
-## Las 3M's
-Para identificar el desperdicio.
-
-### Muda
-Cualquier actividad que no genera valor.
-
-### Mura
-Desigual, Mura crea Muda.
-
-### Muri
-Sobrecarga, usualmente causado por Mura.
-
 ---
 
 ## Referencias
