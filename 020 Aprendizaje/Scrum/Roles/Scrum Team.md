@@ -4,7 +4,7 @@ Links: [[Scrum Roles]], [[Organización]]
 ###### Equipo Scrum
 ---
 
-En ocasiones se le conoce como Equipo de Desarrollo y cada miembro del equipo es llamado **Desarrollador**. Todos ellos contribuyen y son responsables del desarrollo del [[producto]].
+En ocasiones se le conoce como Equipo de Desarrollo y cada miembro del equipo es llamado **Desarrollador**. Todos ellos contribuyen y son responsables del desarrollo del [[Producto]].
 
 Es [[Auto-organización|auto-organizado]], auto-gestionado y auto-suficiente, empoderado.
 

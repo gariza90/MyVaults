@@ -1,11 +1,6 @@
 # Metodologías Ágiles
 ---
 
-LEAN
-PDD
-ASD
-KANBAN
-
 Casi tres cuartas partes (71%) de las organizaciones informan que utilizan enfoques ágiles a veces, a menudo o siempre.
 
 Clasificadas por dos tipos de enfoque:
@@ -187,6 +182,12 @@ Está basado en el Proceso Unificado Racional - RUP.
 - Manejo de configuraciones y cambios.
 - Gerencia de proyectos.
 
+Otras metodologías.
+- Aplicación de Desarrollo Rápido (Rapid Application Development - RAD)
+- Desarrollo de Software Adaptativo (Adaptive Software Development - ASD)
+
 ---
 
 ## Referencias
+[Método Ágil ASD (Adaptive Software Development) - ingenieriadesoftware.mex](http://ingenieriadesoftware.mex.tl/61154_asd.html)
+[# Rapid Application Development (RAD) - creatio.com](https://www.creatio.com/page/rapid-application-development)
