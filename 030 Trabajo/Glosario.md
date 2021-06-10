@@ -118,9 +118,15 @@ Bases de diseño de los procesos y equipos existentes y aplicable al manejo y co
 ### Ventana operativa de integridad
 Establece los límites para variables de proceso (parámetros) que pueden afectar la integridad del equipo si la operación del proceso se desvía de estos límites establecidos durante un período de tiempo predeterminado.
 
-_El API RP 584 establece que pueden existir dos tipos de ventanas operativas de integridad para una misma variable, es decir, la ventana operativa de integridad crítica y la ventana operativa de integridad estándar._
+_El API RP 584 establece que pueden existir dos tipos de ventanas operativas de integridad para una misma variable, es decir, la [[#ventana operativa de integridad crítica]] y la [[#ventana operativa de integridad estándar]]._
 
 _La diferencia entre las dos, radica en el tiempo para alcanzar las consecuencias no deseadas y en la misma línea, el tiempo de respuesta requerido por parte del operador para normalizar el valor de la variable de proceso dentro de los límites seguros de operación._
+
+### Ventana operativa de integridad crítica
+Un nivel de [[#ventana operativa de integridad]] establecido que, si se supera, podría producirse un rápido deterioro de tal manera que el operador debe tomar medidas predeterminadas inmediatas para devolver la variable de proceso dentro del [[#ventana operativa de integridad]] y así evitar riesgos definidos significativos de potencial daño en el equipo o la liberación de fluidos peligrosos, que podrían ocurrir en un período de tiempo corto.
+
+### Ventana operativa de integridad estándar
+Es un nivel establecido de la [[#ventana operativa de integridad]]; que si se supera durante un período de tiempo específico podría causar mayores tasas de degradación o introducir nuevos mecanismos de daño más allá de los previstos.
 
 ## Referencias
 [[Operación Estructurada]]

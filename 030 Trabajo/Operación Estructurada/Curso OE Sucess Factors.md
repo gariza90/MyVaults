@@ -44,8 +44,60 @@ El primer paso para la preparación de la operación estructurada, es la entrega
 
 Para la ejecución práctica de entrega y recibo de turno en Ecopetrol, debes tener en cuenta las directrices diarias. Estas son un elemento fundamental para la orientación y alineación de todo el equipo de trabajo, es importante seguir el orden del proceso.
 
-Ver [[Práctica 1. Entrega y Recibo de Turnos]].
+Ver [[Operación Estructurada#Fase 1 Preparación|Fase 1: Preparación]].
+[[Práctica 1. Entrega y Recibo de Turnos]].
 [[Reportes de turno por cargos]].
+
+## Fase 2: Ejecución
+Realización de las actividades correspondientes al turno.
+
+Esta fase consiste en la aplicación de prácticas estructuradas para ajustar y controlar las variables dentro de límites seguros de operación, cumpliendo los programas de producción y mantenimiento.
+- Realizar ronda y monitoreo operacional.
+- Ejecutar tareas del turno.
+- Verificar cumplimiento de los objetivos operacionales.
+
+Durante la ejecución podemos encontrar diferentes desviaciones en la Operación Estructurada.
+
+Ver [[Operación Estructurada#Fase 2 Ejecución|Fase 2: Ejecución]].
+[[Práctica 2. Rondas Estructuradas]].
+[[Práctica 4. Cuidado Básico de Equipos]].
+
+### Práctica 3: Guías de Control y Ventanas Operativas de Integridad
+Monitorear y controlar el desempeño de cualquier proceso operativo de manera que se garantice el cumplimiento de los objetivos operacionales y necesidades del negocio, así como la confiabilidad y la integridad de los activos de acuerdo con lo establecido por el diseño.
+
+#### Beneficios
+1. Aumento en la integridad de los equipos.
+2. Reducción de los costos operacionales.
+3. Mayor confianza en la estrategia de inspección.
+4. Aumento del ciclo de corrida del área.
+5. Reducción en los alcances y frecuencias de inspección.
+6. Mayor conciencia del operador en los temas de integridad y en el manejo de la economía del proceso.
+
+#### Fases
+**Fase 1**
+- Define el equipo de trabajo.
+- Recolecta información de diseño, estudios de integridad y confiabilidad e información de análisis de desempeño del área operativa.
+- Divide el área operativa en sistemas o circuitos.
+- Define los puntos críticos de control asociados con los equipos o sistemas identificados.
+- Establece la criticidad de los puntos críticos de control identificados y la frecuencia de monitoreo.
+
+**Fase 2**
+- Pueden existir varios escenarios de operación?
+	- Si: Define para cada escenario, el valor de las guías de control de cada punto crítico de control que garantizan el óptimo desempeño y los resultados económicos de la operación.
+	- No: Define el único valor de las guías de control para cada punto crítico de control que optimizan el desempeño y los resultados económicos de la operación.
+- Establece los criterios de violación de las diferentes guías de control.
+
+**Fase 3**
+- Los puntos críticos de control seleccionados pueden afectar la integridad del equipo o sistema?
+	- Si: Evalúa la información de diseño, las condiciones operacionales, los modos de falla y las reglas de ingeniería para definir el valor de la ventana operativa de integridad de cada punto crítico de control asociado al equipo o sistema.
+	- Define la ventana operativa de integridad de cada punto crítico de control en el valor límite que proteja la integridad del sistema o equipo.
+	- Establece los criterios de violación de las ventanas operativas de integridad definidas.
+	- No: Documenta la información de las guías de control y las ventanas operativas de integridad.
+
+**Fase 4**
+- Configura el sistema de información definido para el monitoreo de las variables críticas del área operativa.
+
+Ver [[Práctica 3. Guías de Control y Ventanas Operativas]].
 
 ---
 
