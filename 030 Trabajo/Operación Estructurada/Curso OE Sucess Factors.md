@@ -99,6 +99,24 @@ Monitorear y controlar el desempeño de cualquier proceso operativo de manera qu
 
 Ver [[Práctica 3. Guías de Control y Ventanas Operativas]].
 
+### Fase 3: Seguimiento
+Ejecutar actividades de monitoreo que se deben considerar, estandarizar y optimizar para asegurar la correcta operación de las plantas, estaciones, sistemas y equipos para detectar desviaciones con respecto a los límites de control operacional o condiciones subestándar.
+
+De esta forma podemos tomar acciones preventivas y correctivas como supervisores, técnicos ,operadores y recorredores para normalizar y/o mejorar la condición operacional del área.
+
+#### Beneficios de las Rondas Estructuradas
+- Información relevante para la toma oportuna de decisiones.
+- Equipos más confiables con mayor disponibilidad.
+- Operaciones óptimas.
+- Optimización de servicio.
+- Cumplimiento a los requerimientos de las autoridades, los grupos de interés, los gerentes de planta, etc.
+
+Ver [[Operación Estructurada#Fase 3 Seguimiento|Fase 3: Seguimiento]].
+[[Práctica 2. Rondas Estructuradas]].
+[[Práctica 4. Cuidado Básico de Equipos]].
+
+### Fase 4: Aseguramiento
+
 ---
 
 ## Referencias
