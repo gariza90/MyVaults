@@ -101,7 +101,7 @@ Se realizó despacho del Fracktank 1 (380 Bbls 34 %BSW) al tanque ATK-7213.
 | Sistema | Flujo Bbls/h | %BSW |
 | --- | --- | --- |
 | Desp EC2 | 1.550 | 0.9 | %% FQI-7229 %%
-| Desp EA1 | 2.286 | 0.4 | %% Despliegue VIT %%
+| Desp EA1 | 2.286 | 0.5 | %% Despliegue VIT %%
 | Desp ESF | 3.500 | 0.739 | %% Unidad LACT %%
 
 **Consumo de Químicos**
