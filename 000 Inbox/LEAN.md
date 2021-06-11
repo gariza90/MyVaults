@@ -1,11 +1,11 @@
-Links: [[Kaizen]], [[5S]], [[TPM]], [[Monozukuri]], [[SPT]]
+Links: [[Kaizen]], [[5S]], [[3M]], [[TPM]], [[Monozukuri]], [[SPT]]
 
 # LEAN
 ---
 
 Se trata más bien de una filosofía o forma de pensar para la [[mejora continua]].
 
-La idea de maximizar valor para el cliente, satisfacer sus necesidades y expectativas, con el menor consumo de recursos, tiempo, energía y esfuerzo, a través de la eliminación de desperdicio [[3M#Muda|Muda]], variaciones e ineflexibilidades, dando enfoque en lo esencial.
+La idea de maximizar valor para el cliente, satisfacer sus necesidades y expectativas, con el menor consumo de recursos, tiempo, energía y esfuerzo, a través de la eliminación de desperdicio [[3M#Muda|Muda]], variaciones [[3M#Mura|Mura]] e ineflexibilidades [[3M#Muri|Muri]], dando enfoque en lo esencial.
 
 Busca:
 - Entender lo que realmente está pasando en el lugar donde se crea valor. [[Gemba]].
@@ -23,3 +23,5 @@ Ver [[Principios LEAN]].
 ## Referencias
 [Qué es LEAN? - institutolean.cl](https://institutolean.cl/nuevo/lean/)
 [Que es el modelo LEAN o de Producción Ajustada - prevencontrol.com](https://prevencontrol.com/prevenblog/que-es-el-modelo-lean-o-de-produccion-ajustada/)
+[Metodología Lean: qué es y cómo puede impulsar tu modelo de negocio - apd.es](https://www.apd.es/metodologia-lean-que-es/)
+[¿Qué es Lean Manufacturing? - leansolutions.co](http://leansolutions.co/conceptos-lean/lean-manufacturing/)

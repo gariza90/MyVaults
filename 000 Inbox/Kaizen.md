@@ -1,4 +1,4 @@
-Links: [[5S]], [[LEAN]], [[TPM]], [[Monozukuri]], [[SPT]]
+Links: [[5S]], [[3M]], [[LEAN]], [[TPM]], [[Monozukuri]], [[SPT]]
 
 # Kaizen
 ---
