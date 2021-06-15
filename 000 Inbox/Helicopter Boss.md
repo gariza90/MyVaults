@@ -1,21 +1,27 @@
 ---
 created: 2021-06-15T13:33:20 (UTC -05:00)
 tags: []
-source: https://www.fminet.com/insights/are-you-a-helicopter-boss/
-author: By FMI Corporation on September 20, 2011
 ---
 
-# Are You a Helicopter Boss? | FMI
+# Helicopter Boss
+###### Jefe Helicóptero
+---
 
-> ## Excerpt
-> Have you ever worked for someone who controlled everything you did, day in and day out, telling you what to do, how to do it and when to do it? This boss was checking in constantly, making suggestions and hovering above, even though you did not ask for nor need any help or support. These […]
+Son aquellos jefes que tienen la necesidad de controlar todo lo que hacen sus empleados, que dictan lo que tienen que hacer, cómo hacerlo y hasta cuándo hacerlo.
+
+Es aquel que siempre está monitoreando lo que se hace, haciendo sugerencias aun cuando estas no han sido solicitadas.
+
+El término se acuña del término *Padres Helicópteros* (Helicopter Parents).
+
+Estos jefes pueden tener muy buenas intenciones, pero sienten la imperiosa necesidad de controlar cada aspecto del trabajo de sus empleados, tomar todas las decisiones por ellos, con el fin de prevenir así *los errores*.
+
+Planean y monitorean cada movimiento no permitiendo que los empleados tomen decisiones, asuman riesgos y solucionen sus problemas por ellos mismos.
+
+Esto lo que logra es que los empleados se cohiban de aprender, desarrollarse y crecer.
 
 ---
-Have you ever worked for someone who controlled everything you did, day in and day out, telling you what to do, how to do it and when to do it? This boss was checking in constantly, making suggestions and hovering above, even though you did not ask for nor need any help or support. These micromanagers can be referred to as “helicopter bosses,” a term coined from its counterpart phrase “helicopter parents.”
 
-Helicopter parents often have very good intentions, but they feel they have to control every aspect of their children’s lives to prevent them from failing. These parents hover over their kids, planning and monitoring their every move, without letting them figure out solutions to their problems on their own. Helicopter bosses treat their employees like these parents treat their children. These managers hover over their employees and make all of the decisions. Employees are not allowed to take risks or solve problems on their own. What this accomplishes is that employees are prevented to learn, develop and grow.
-
-You are probably a helicopter boss if:
+Usted probablemente es un jefe helicóptero si:
 
 -   You do not trust others to perform work on their own.
 -   You refuse to delegate anything because no one can do it as well or as fast as you can.
