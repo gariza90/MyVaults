@@ -41,4 +41,8 @@ If you have ever worked with this type of manager and would like to share your e
 
 _Note: The following are excerpts from the author’s article “Are You a Helicopter Boss?” which appeared in the 2010 #3 issue of FMI Quarterly. You may download the entire article at: [http://hale.sg-host.com/helicopter-boss.html](http://hale.sg-host.com/helicopter-boss.html)_
 
-[Are you a helicopter boss - FMI](https://www.fminet.com/insights/are-you-a-helicopter-boss/)
+---
+
+## Referencias
+[Are You a Helicopter Boss? - FMI](https://www.fminet.com/insights/are-you-a-helicopter-boss/)
+[5 Signs That You Are a Helicopter Boss - businesstalentsolutions](https://www.businesstalentsolutions.com/5-signs-that-you-are-a-helicopter-boss/)

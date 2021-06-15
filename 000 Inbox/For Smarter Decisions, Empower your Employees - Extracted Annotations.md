@@ -38,11 +38,11 @@ Proveer el nivel correcto de orientación en el tiempo adecuado es una habilidad
 
 > "Some managers feel that subordinates don't have the abilities or skills to make good decisions themselves or are not sufficiently accountable." ([Smet et al :8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
-Los Jefes helicópteros y microgestionadores sienten que sus subordinados no tienen las capacidades o habilidades de tomar buenas decisiones por ellos mismos o no son lo suficientemente responsables. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
+Los [[Helicopter Boss|Jefes helicópteros]] y microgestionadores sienten que sus subordinados no tienen las capacidades o habilidades de tomar buenas decisiones por ellos mismos o no son lo suficientemente responsables. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
 > "Managerial archetypes" ([Smet et al :8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
-Arquetipos gerenciales.- El jefe helicoptero.- El microgestionador.- El mentor o coach.- El porrista o animador. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
+Arquetipos gerenciales.- [[Helicopter Boss|El jefe helicoptero]].- El microgestionador.- El mentor o [[Coaching|coach]].- El porrista o animador. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
 > "Cheerleader managers step back from decisions, intervening only occasionally to boost morale." ([Smet et al :9](zotero://open-pdf/library/items/6II67KLT?page=4))
 
@@ -52,7 +52,7 @@ Los gerentes porristas o animadores son los que están como espectadores, alejá
 
 > "Hands-on but not directive, coaches don't tell people what to do—rather, they provide guidance and guardrails for decisions and ensure accountability, while stepping back and allowing others to make them." ([Smet et al :9](zotero://open-pdf/library/items/6II67KLT?page=4))
 
-El mejor arquetipo gerencial es el mentor o coach. El coach no dice a su gente que hacer, ni cómo hacerlo, ellos proveen orientación y soporte a su equipo para que puedan tomar las decisiones y aseguran la responsabilidad. Idealmente es el arquetipo más lógico pero, no es tan sencillo de llevar a cabo. ([note on p.9](zotero://open-pdf/library/items/6II67KLT?page=4))
+El mejor arquetipo gerencial es el mentor o [[Coaching|coach]]. El coach no dice a su gente que hacer, ni cómo hacerlo, ellos proveen orientación y soporte a su equipo para que puedan tomar las decisiones y aseguran la responsabilidad. Idealmente es el arquetipo más lógico pero, no es tan sencillo de llevar a cabo. ([note on p.9](zotero://open-pdf/library/items/6II67KLT?page=4))
 
 > "But there is a wide gap between understanding what to do and being able to do it" ([Smet et al :9](zotero://open-pdf/library/items/6II67KLT?page=4))
 
