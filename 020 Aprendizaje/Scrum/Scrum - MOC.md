@@ -1,4 +1,4 @@
-Links: [[Index Aprendizaje]]
+Links: [[020 Aprendizaje - MOC]]
 
 # Scrum - MOC
 ---

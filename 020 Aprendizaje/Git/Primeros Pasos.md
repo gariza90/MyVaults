@@ -1,4 +1,7 @@
-# Comandos frecuentes Git
+Links: [[Git - MOC]]
+
+# Comandos Frecuentes
+---
 
 ## Obtener ayuda
 
@@ -137,3 +140,7 @@ Cambia el último commit añadiendo a este, un archivo modificado.
 ```bash
 git commit --amend -m "<mensaje descriptivo>"
 ```
+
+---
+
+## Referencias
