@@ -22,7 +22,7 @@ Clasificación de las decisiones de acuerdo a su frecuencia, riesgo e importanci
 
 > "While these are not the biggest or most complicated decisions organizations make, their frequency means that their cumulative impact can be significant." ([Smet et al :8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
-Decisiones delegadas. No son las decisiones más complicadas, pero por su frecuencia su impacto acumulativo puede ser significativo. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
+**Decisiones delegadas**. No son las decisiones más complicadas, pero por su frecuencia su impacto acumulativo puede ser significativo. ([note on p.8](zotero://open-pdf/library/items/6II67KLT?page=3))
 
 > "The key to achieving better delegated decisions is to empower employees by developing their managerial capabilities to give them the authority or power to act." ([Smet et al :8](zotero://open-pdf/library/items/6II67KLT?page=3))
 

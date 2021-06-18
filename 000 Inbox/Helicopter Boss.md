@@ -23,23 +23,31 @@ Esto lo que logra es que los empleados se cohiban de aprender, desarrollarse y c
 
 Usted probablemente es un jefe helicóptero si:
 
--   You do not trust others to perform work on their own.
--   You refuse to delegate anything because no one can do it as well or as fast as you can.
--   You are constantly checking in and hovering over your direct reports, even when they have not asked for your help.
--   You are burned out and lack work/life balance.
--   Your team suffers from low morale because you second-guess everything it does.
--   Your team has a high turnover rate.
--   Your team produces low-quality work and/or is not productive.
--   Your team is not profitable.
--   Your team lacks bench strength in terms of successorship.
+- No es capaz de confiar en otros para la ejecución de un trabajo.
+- Se reusa a delegar algo porque ninguno puede hacerlo tan bien como usted, o tan rápido como usted.
+- Constantemente esta revisando y supervisando lo que hace sus empleados, incluso cuando no han solicitado su ayuda.
+- Presenta sintomas de cansancio y no tiene un correcto balance entre su trabajo y su vida personal.
+- Hay baja moral en su equipo porque estas monitoreando todo lo que hace.
+- Su equipo tiene alta frecuencia de rotación.
+- El trabajo de su equipo es de baja calidad o no es productivo.
+- Su equipo no presenta rentabilidad.
+- No se cuenta con reemplazos en caso de ausencias temporales o permanentes.
 
-If you are a helicopter boss and do not allow your employees to make at least some of their own decisions, you set yourself up to have a dissatisfied and unproductive workforce. Many of your talented employees will simply leave rather than put up with a manager who constantly hovers and micromanages. Research indicates that one the top reasons people leave companies is because of poor relationships with their managers. Replacing these employees can cost up to 2.5 times of their salaries, which takes its toll on the company’s bottom line.
+---
 
-Good managers do not hover over their employees. They involve their people in the decision-making process by teaching them how to make good decisions for the organization. Good managers do not problem solve for their employees, but instead coach them to solve problems on their own. Good managers trust their employees, and in turn that trust is reciprocated. By not micromanaging every aspect of their people’s jobs, good managers help employees develop and grow, which benefits the entire organization.
+Muchos de los empleados talentosos simplemente prefieren renunciar a tener que soportar a un jefe que constantemente los monitoriza y asfixia.
+
+Investigaciones indican que una de las más grandes razones por las que las personas renuncian a sus trabajos es por las malas relaciones que tienen con sus jefes.
+
+Reemplazar estos empleados puede costar hasta 2.5 veces más que sus salarios, aumentando los costos de la empresa.
+
+Los buenos jefes para con sus empleados:
+- No los hostigan. Ellos los involucran en el proceso de toma de decisiones, les enseña cómo tomar buenas decisiones para la organización. 
+- No solucionan sus problemas, sin embargo los entrena para que los solucionen ellos mismos
+
+Good managers do not problem solve for their employees, but instead coach them to solve problems on their own. Good managers trust their employees, and in turn that trust is reciprocated. By not micromanaging every aspect of their people’s jobs, good managers help employees develop and grow, which benefits the entire organization.
 
 If you have ever worked with this type of manager and would like to share your experiences, we would love to hear from you.
-
-_Note: The following are excerpts from the author’s article “Are You a Helicopter Boss?” which appeared in the 2010 #3 issue of FMI Quarterly. You may download the entire article at: [http://hale.sg-host.com/helicopter-boss.html](http://hale.sg-host.com/helicopter-boss.html)_
 
 ---
 
