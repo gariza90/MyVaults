@@ -41,16 +41,18 @@ Investigaciones indican que una de las más grandes razones por las que las pers
 
 Reemplazar estos empleados puede costar hasta 2.5 veces más que sus salarios, aumentando los costos de la empresa.
 
+---
+
 Los buenos jefes para con sus empleados:
 - No los hostigan. Ellos los involucran en el proceso de toma de decisiones, les enseña cómo tomar buenas decisiones para la organización. 
-- No solucionan sus problemas, sin embargo los entrena para que los solucionen ellos mismos
-
-Good managers do not problem solve for their employees, but instead coach them to solve problems on their own. Good managers trust their employees, and in turn that trust is reciprocated. By not micromanaging every aspect of their people’s jobs, good managers help employees develop and grow, which benefits the entire organization.
-
-If you have ever worked with this type of manager and would like to share your experiences, we would love to hear from you.
+- No solucionan sus problemas, sin embargo los entrena para que los solucionen ellos mismos.
+- Confía en ellos, y hace que esa confianza sea recíproca.
+- No microgestiona cada aspecto de sus trabajos, los ayuda a que se desarrollen y crezcan lo cual beneficia a toda la organización.
 
 ---
 
 ## Referencias
 [Are You a Helicopter Boss? - FMI](https://www.fminet.com/insights/are-you-a-helicopter-boss/)
 [5 Signs That You Are a Helicopter Boss - businesstalentsolutions](https://www.businesstalentsolutions.com/5-signs-that-you-are-a-helicopter-boss/)
+[Microgestión: Qué es y Qué Impacto tiene en la Empresa - infoempleo](https://empresas.infoempleo.com/hrtrends/media/2019/08/HRTRENDS_Micogestion_principal.jpg)
+[Qué es la Microgestión o Micromanagement - magentaig](https://magentaig.com/que-es-la-microgestion/)

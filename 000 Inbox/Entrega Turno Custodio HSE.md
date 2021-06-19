@@ -16,13 +16,15 @@ Se apoya las actividades relevantes del custodio de Confiabilidad, teniendo en c
 
 ### Permisos de Trabajo
 
+
 | Estado | Cant |
 | --- | --- |
-| Abiertos | 7 |
-| Cerrados | 1 |
-| Revisados | 14 |
+| Abiertos | 37 |
+| Cerrados | 3 |
+| Revisados | 0 |
 
 ### Análisis de Riesgos
+
 
 | Estado | Cant |
 | --- | --- |
@@ -37,9 +39,22 @@ Se apoya las actividades relevantes del custodio de Confiabilidad, teniendo en c
 
 ### Actividades ejecutadas de Mantenimiento
 
+- AP-7241B se interviene por parte del área mecánica, se deja bloqueda por presentarse problemas en el skimmer y la tubería de descarga presenta desviación. Pendiente corrección por metalmecánica.
+- AMOV-7251B el personal del área eléctrica va a sectorizar la acometida para identificar donde se encuentra la falla por aterrizamiento.
+- AP-7251C y AP-7254C se realiza mantenimiento mecánico preventivo.
+- Retiro del medidor de calidad de energia del CCM4 por parte del personal de CBM.
+- Mantenimientos preventivos mecánicos de las bombas AP-7202D, AP-7202E y AP-7263B.
+- Se realiza entrampe y despacho de raspador inteligente desde megamúltiple hacia ESF.
+- Personal de Consorcio EH realiza corrección a instalación de platina ciega realizada por el personal de mecánica de Confipetrol en el turno nocturno anterior.
+- Intervención por parte del personal de MTZ en celda ADA-7257 de Stap Portátil por presentarse pitting a la entrada. Se generó aviso SAP # 200221468
+- AP-7246 se realiza desacople por parte del personal de mecánica y se lleva a taller para reparación, se presentó cizallamiento de pernos de acople. Pendiente generación de Aviso en SAP.
 
 ### Pendientes de Mantenimiento
-- Bomba AP-7259A por mantenimiento mecánico, presenta falla en acople por alto estado de deterioro.
+- Bomba AP-72519B presenta baja eficiencia, se genera aviso SAP # 200221484.
+- Aires acondicionados (laboratorio Bureau Veritas, Oficina Halliburton, y Oficina Custodios) requieren intervención por parte del personal de electricidad.
+- Drenaje pierna muerta de bomba AP-7241A presenta alto grado de corrosión, se requiere de la creación de aviso en SAP.
+- Medidor de densidad DT-7204 de patín unidad LACT presenta alta variación en la señal en DeltaV, generando alarmas falsas de manera repetitiva. Programar personal de instrumentación y control para la revisión.
+- LIT-7104 del tanque ATK-7103 de la estación Castilla 1 se encuentra generando alarmas constantes. Esto se reporta al Ing. Eider quien se compromete en la búsqueda de nuevo medidor para reemplazo.
 
 ### Otras Actividades
-- Liquidación de la producción de las estaciones de la Gerencia Castilla.
+- N.A.
