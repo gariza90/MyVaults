@@ -88,7 +88,7 @@ Tomar el liderazgo a través de la retroalimentación y la mentoría. ([note on 
 
 > "the coaching management style doesn't come naturally. The ability to empower others is a capability, and it's more than just agreeing to a clear framework for RACI." ([Smet et al :10](zotero://open-pdf/library/items/6II67KLT?page=5))
 
-El estilo de gestión basado en la mentoría no viene naturalmente. La habilidad de empoderar a otros es una capacidad, y es más que sólo encajar perfectamente en el marco de trabajo [[RACI]]. ([note on p.10](zotero://open-pdf/library/items/6II67KLT?page=5))
+El estilo de gestión basado en la mentoría no viene naturalmente. La habilidad de empoderar a otros es una capacidad, y es más que sólo encajar perfectamente en el marco de trabajo [[Matriz RACI|RACI]]. ([note on p.10](zotero://open-pdf/library/items/6II67KLT?page=5))
 
 > "Managers and employees both need time to learn how to operate in these new relationships. This requirement can temporarily slow down decision making and increase the workloads of managers who want to coach, tempting them to step back in and speed things up—only to find themselves reverting to codependent relationships." ([Smet et al :10](zotero://open-pdf/library/items/6II67KLT?page=5))
 

@@ -3,7 +3,7 @@
 
 Enlaces a páginas web para su lectura, estudio y posterior organización.
 
-# Zettelkasten
+## Zettelkasten
 
 **Enfoque: los principios de Zettelkasten**
 [Zettelkasten - Cómo un erudito Alemán fue tan increíblemente productivo - medium.com](https://medium.com/voces-en-espa%C3%B1ol/zettelkasten-c%C3%B3mo-un-erudito-alem%C3%A1n-fue-tan-incre%C3%ADblemente-productivo-b16643e170cc)
@@ -37,6 +37,11 @@ Enlaces a páginas web para su lectura, estudio y posterior organización.
 
 [About these notes - andymatuschak.org](https://notes.andymatuschak.org/About_these_notes)
 
-# OKR's
+## OKR's
 
 [Welcome to OKRs Setting The Foundation](https://www.whatmatters.com/get-started/)
+
+
+## Matrices de Gestión
+
+[Las 5 Mejores Matrices de Todos los Tiempos para una Gestión Diez](http://elblogdelmandointermedio.com/2015/06/17/5-matrices-imprescindibles-para-una-gestion-diez/)

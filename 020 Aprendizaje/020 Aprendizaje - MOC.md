@@ -2,6 +2,7 @@
 ---
 
 [[Git - MOC]]
+[[LEAN - MOC]]
 [[Obsidian - MOC]]
 [[PKM - MOC]]
 [[Scrum - MOC]]
