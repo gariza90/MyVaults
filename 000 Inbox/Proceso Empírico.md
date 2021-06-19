@@ -2,9 +2,13 @@
 ---
 
 ## Marco Cynefin
+Pronunciado *ku-_nev_\-in*, es una palabra galesa, sin traducción directa al español, que significa, los múltiples factores en nuestro entorno y nuestra experiencia que nos influyen de maneras que nunca podemos entender.
+
 ![[marcoCynefin.png|450]]
 
-Ayuda en el analisis de diferentes escenarios o contextos para poder inspeccionarlos y comprenderlos, y de esta manera, entender donde se puede aplicar una determinada metodología o marco de trabajo.
+El marco clasifica los problemas a enfrentar en cinco contextos definidos por la naturaleza de la relación entre causa y efecto.
+
+Ayuda en el analisis de estos escenarios o contextos para poder inspeccionarlos y comprenderlos, y de esta manera, entender donde se puede aplicar una determinada herramienta o metodología de trabajo.
 
 Para comprender el contexto es necesario analizar:
 - Estructura. (Elementos del Entorno)

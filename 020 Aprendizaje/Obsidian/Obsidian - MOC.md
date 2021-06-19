@@ -1,4 +1,6 @@
-# Obsidian MOC
+Links: [[020 Aprendizaje - MOC]]
+
+# Obsidian - MOC
 ---
 
 - [[Crear notas]].

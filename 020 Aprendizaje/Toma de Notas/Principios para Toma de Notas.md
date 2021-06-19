@@ -1,5 +1,5 @@
 %% #Notas %%
-Links: [[Toma de Notas MOC]], [[Notas Evergreen]]
+Links: [[Toma de Notas - MOC]], [[Notas Evergreen]]
 
 # Principios para Toma de Notas
 ---

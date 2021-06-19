@@ -1,6 +1,6 @@
 Links: [[020 Aprendizaje - MOC]]
 
-# Toma de Notas MOC
+# Toma de Notas - MOC
 ---
 
 - [[Zettelkasten]]
@@ -9,3 +9,5 @@ Links: [[020 Aprendizaje - MOC]]
 - [[Tipos de Notas]]
 
 ---
+
+## Referencias

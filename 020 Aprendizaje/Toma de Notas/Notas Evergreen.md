@@ -1,5 +1,5 @@
 %% #Notas %%
-Links: [[Toma de Notas MOC]]
+Links: [[Toma de Notas - MOC]]
 
 # Notas Evergreen
 ---
