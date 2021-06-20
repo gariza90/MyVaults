@@ -52,9 +52,9 @@ Un Sprint se cancelaría cuando los requerimientos cambian considerablemente o s
 
 Un nuevo Sprint comienza inmediatamente después de la conclusión del Sprint anterior.
 
-Existen varias prácticas para pronosticar el progreso, como el trabajo pendiente ([[Burndown Chart|burn-down]]), trabajo completado (burn-up) o flujos acumulativos (cumulative-flows). Si bien han demostrado su utilidad, no reemplazan la importancia del [[Proceso Empírico|empirismo]].
+Existen varias prácticas para pronosticar el progreso, como el trabajo pendiente ([[Burndown Chart|burn-down]]), trabajo completado (burn-up) o flujos acumulativos (cumulative-flows). Si bien han demostrado su utilidad, no reemplazan la importancia del [[Empirismo]].
 
-En entornos [[Proceso Empírico#Complejo|complejos]], se desconoce lo que sucederá. Sólo lo que haya sucedido se puede utilizar para la toma de decisiones con miras al futuro.
+En entornos [[Marco Cynefin#Complejo|complejos]], se desconoce lo que sucederá. Sólo lo que haya sucedido se puede utilizar para la toma de decisiones con miras al futuro.
 
 ---
 

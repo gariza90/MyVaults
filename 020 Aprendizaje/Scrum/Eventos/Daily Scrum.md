@@ -42,7 +42,7 @@ Algunas buenas prácticas son:
 
 El [[Scrum Team|equipo de desarrollo]] o los miembros del equipo, a menudo se vuelven a reunir inmediatamente después del Daily Scrum para tener discusiones detalladas o para [[Scrum Pillars#Adaptación|adaptar]] o replanificar el resto del trabajo del [[Sprint]].
 
-Optimiza las posibilidades de que el [[Scrum Team|equipo de desarrollo]] cumpla con el [[Sprint Goal|Objetivo del Sprint]], reduciendo la [[Proceso Empírico#Complejo|complejidad]].
+Optimiza las posibilidades de que el [[Scrum Team|equipo de desarrollo]] cumpla con el [[Sprint Goal|Objetivo del Sprint]], reduciendo la [[Marco Cynefin#Complejo|complejidad]].
 
 ### Entradas
 Cada miembro del equipo responde estas tres preguntas referente al alcance del [[Sprint Goal|Objetivo del Sprint]]:

@@ -35,13 +35,13 @@ No debe:
 Ayuda al [[Product Owner|Product Owner]]:
 - Encontrar técnicas para una definición de [[Sprint Goal|objetivos del producto]] y la gestión del [[Product Backlog|Product Backlog]].
 - Comprender la necesidad de tener y comunicar al [[Scrum Team|equipo]] los elementos del [[Product Backlog|Product Backlog]] de manera clara y concisa.
-- Establecer una planificación empírica de productos para un entorno [[Proceso Empírico#Complejo|complejo]].
+- Establecer una planificación empírica de productos para un entorno [[Marco Cynefin#Complejo|complejo]].
 - Facilitar la [[Colaboración|colaboración]] de los [[Stakeholders|interesados]] según se solicite o necesite.
 
 Sirve a la organización en:
 - Liderar, capacitar y guiar a la organización en su adopción de [[Scrum]].
 - Planificar y asesorar implementaciones de [[Scrum]] dentro de la organización.
-- Ayudar a los empleados y los interesados a comprender y aplicar un [[Proceso Empírico|enfoque empírico]] para el trabajo [[Proceso Empírico#Complejo|complejo]].
+- Ayudar a los empleados y los interesados a comprender y aplicar un [[Empirismo|enfoque empírico]] para el trabajo [[Marco Cynefin#Complejo|complejo]].
 - Elimina las barreras entre los interesados y los [[Principal Scrum Team|equipos]].
 
 Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes SBOK|Procesos de Scrum]].

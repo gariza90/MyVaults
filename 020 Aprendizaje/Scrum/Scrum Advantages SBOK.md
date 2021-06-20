@@ -4,7 +4,7 @@ Links: [[Scrum - MOC]]
 ###### Ventajas de Scrum
 ---
 
-- **Adaptabilidad**: El control del proceso empírico y el desarrollo iterativo hacen que los proyectos sean adaptables y abiertos a la incorporación del cambio.
+- **Adaptabilidad**: El [[Control del Proceso Empírico]] y el desarrollo iterativo hacen que los proyectos sean adaptables y abiertos a la incorporación del cambio.
 - **Transparencia**: Todos los radiadores de información tales como un Scrumboard y el Sprint Burndown Chart se comparten, lo cual conduce a un ambiente de trabajo abierto.
 - **Retroalimentación Continua**: La retroalimentación continua se proporciona a través de los procesos de realizar Daily Standup y demostrar y validar el sprint.
 - **Mejora Continua**: Los entregables se mejoran progresivamente sprint por sprint a través del proceso de refinar el Backlog Priorizado del Producto.

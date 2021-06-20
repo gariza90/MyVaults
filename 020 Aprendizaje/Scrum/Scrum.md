@@ -7,7 +7,7 @@ Es un marco de trabajo [[Agilidad|Ágil]] con prácticas muy específicas alrede
 
 Fue creado por Ken Schwaber, Mike Beedle y Jeff Sutherland.
 
-Es un marco de referencia adaptativo para manejar problemas [[Proceso Empírico#Complejo|complejos]] o tareas complejas en la generación de productos del maximo valor posible productiva y creativamente.
+Es un marco de referencia adaptativo para manejar problemas [[Marco Cynefin#Complejo|complejos]] o tareas complejas en la generación de productos del maximo valor posible productiva y creativamente.
 
 Cada elemento del marco de trabajo tiene un propósito específico que es esencial para el valor general y los resultados obtenidos con Scrum. Cambiar el diseño o las ideas esenciales de Scrum, omitir elementos o no seguir las reglas de Scrum, oculta los problemas y limita los beneficios de Scrum, e incluso potencialmente lo vuelve inútil.
 
@@ -28,7 +28,7 @@ El termino Scrum se origina del Rugby y se refiere al amontonamiento del equipo 
 Hay una alta demanda de certificaciones Scrum, ya que es, de lejos, la más popular de las [[Metodologías Ágiles]].
 
 Se basa:
-- Sobre la teoría del control de [[Proceso Empírico]] y el pensamiento [[LEAN]].
+- Sobre la teoría del control de [[Empirismo|Proceso Empírico]] y el pensamiento [[LEAN]].
 - En el trabajo con los conocimientos y habilidades de los miembros del [[Principal Scrum Team|equipo de trabajo]].
 - En tomar decisiones basados en la información concreta obtenida de la *observación* (predicción de variables) que muestra el progreso del *desarrollo del producto*, *los cambios en el entorno* y los *comentarios de los clientes*.
 - En la *experimentación* para la validación de hipótesis.

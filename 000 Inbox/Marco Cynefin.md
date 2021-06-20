@@ -1,7 +1,6 @@
-# Proceso Empírico
+# Marco Cynefin
 ---
 
-## Marco Cynefin
 Pronunciado *ku-_nev_\-in*, es una palabra galesa, sin traducción directa al español, que significa, los múltiples factores en nuestro entorno y nuestra experiencia que nos influyen de maneras que nunca podemos entender.
 
 ![[marcoCynefin.png|450]]
@@ -38,7 +37,7 @@ No existe una relación directa y única entre una causa y su efecto, sino que e
 Existen varias maneras de solucionar los problemas basado en el análisis y conocimiento de especialistas.
 
 ### Complejo
-- Es el contexto de lo empírico, el de las prácticas emergentes. Se le llama contexto complejo adaptativo: fluye y cambia constantemente.
+- Es el contexto de lo [[Empirismo|empírico]], el de las prácticas emergentes. Se le llama contexto complejo adaptativo: fluye y cambia constantemente.
 - Es el espacio de (y para) la experimentación y las redes humanas... y por lo tanto, de la diversidad. Todos pueden y deben *descifrar* juntos.
 - Es el contexto de las incógnitas desconocidas: tiene patrones perceptibles... ¡es *desordenadamente* coherente!.
 - Sus límites y restricciones son parcialmente cambiantes.
