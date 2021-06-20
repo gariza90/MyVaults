@@ -41,7 +41,7 @@ Ayuda al [[Product Owner|Product Owner]]:
 Sirve a la organización en:
 - Liderar, capacitar y guiar a la organización en su adopción de [[Scrum]].
 - Planificar y asesorar implementaciones de [[Scrum]] dentro de la organización.
-- Ayudar a los empleados y los interesados a comprender y aplicar un [[Enfoque Empírico|enfoque empírico]] para el trabajo [[Marco Cynefin#Complejo|complejo]].
+- Ayudar a los empleados y los interesados a comprender y aplicar un [[Método Empírico|enfoque empírico]] para el trabajo [[Marco Cynefin#Complejo|complejo]].
 - Elimina las barreras entre los interesados y los [[Principal Scrum Team|equipos]].
 
 Resumen de las responsabilidades del Product Owner en los diferentes [[Scrum Processes SBOK|Procesos de Scrum]].
