@@ -37,7 +37,7 @@ No existe una relación directa y única entre una causa y su efecto, sino que e
 Existen varias maneras de solucionar los problemas basado en el análisis y conocimiento de especialistas.
 
 ### Complejo
-- Es el contexto de lo [[Empirismo|empírico]], el de las prácticas emergentes. Se le llama contexto complejo adaptativo: fluye y cambia constantemente.
+- Es el contexto de lo [[Enfoque Empírico|empírico]], el de las prácticas emergentes. Se le llama contexto complejo adaptativo: fluye y cambia constantemente.
 - Es el espacio de (y para) la experimentación y las redes humanas... y por lo tanto, de la diversidad. Todos pueden y deben *descifrar* juntos.
 - Es el contexto de las incógnitas desconocidas: tiene patrones perceptibles... ¡es *desordenadamente* coherente!.
 - Sus límites y restricciones son parcialmente cambiantes.
