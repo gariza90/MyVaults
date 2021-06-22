@@ -1,4 +1,4 @@
-mpieza mpieza g# Entrega de Turno Supervisor GAC-F-209eneral de 
+# Entrega de Turno Supervisor GAC-F-209
 ---
 ## Personal y Entrenamiento
 ###### El propósito de este renglón es reportar personal que se encuentra en el turno, en entrenamiento en campo o en aula, pasantías, vacaciones, etc. Las tutorías o acompañamientos realizados durante su turno al equipo de trabajo. Resaltar el trabajo bien hecho y felicitar de manera escrita con base en el mérito al equipo de trabajo o a alguien en particular. Reportar necesidades de actualización de procedimientos y entrenamientos para la gestión de las áreas responsables.
