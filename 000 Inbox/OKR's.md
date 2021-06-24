@@ -20,3 +20,4 @@ Normalmente son de 3 a 5 por objetivo.
 ---
 
 ## Referencias
+[OKRs, Inspiración con Resultados - interacso.com](https://interacso.com/blog/2020/08/24/okrs-inspiracion-con-resultados/)

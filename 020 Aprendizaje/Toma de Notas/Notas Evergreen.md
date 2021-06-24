@@ -11,3 +11,7 @@ Evergreen significa que **siempre está verde, fresco, disponible para consumir*
 Este concepto evoluciona en gran parte del [[Zettelkasten]] de [[Niklas Luhmann]].
 
 Ver [[Principios para Toma de Notas]]
+
+---
+
+## Referencias
