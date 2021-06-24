@@ -4,7 +4,7 @@ Links: [[020 Aprendizaje - MOC]]
 ---
 
 - [[Matriz Eisenhower]].
-- [[Matriz FODA]].
+- [[Matriz DOFA]].
 - [[Matriz BCG]].
 - [[Matriz RACI]].
 - [[Matriz de Revisión de Talento]].

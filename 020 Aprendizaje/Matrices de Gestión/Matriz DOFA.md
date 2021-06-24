@@ -1,6 +1,6 @@
 Links: [[Matrices de Gestión - MOC]]
 
-# Matriz FODA
+# Matriz DOFA
 ---
 
 
