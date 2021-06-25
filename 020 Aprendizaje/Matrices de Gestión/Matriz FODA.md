@@ -5,6 +5,7 @@ Links: [[Matrices de Gestión - MOC]]
 
 Tambien se conoce como Matriz DAFO, DOFA o SWOT Matrix en inglés.
 
+Su nombre se deriva del acrónimo formado por las iniciales de las variables que la conforman:
 **FODA**: Fortalezas, Oportunidades, Debilidades, Amenazas.
 **SWOT**: Strengts, Weaknesses, Opportunities, Threats.
 
@@ -26,7 +27,11 @@ Está conformado por cuatro variables:
 
 Las **Fortalezas** como las **Debilidades** son aspectos que controla la organización de manera interna, por lo que la acción sobre ellas es directa. Las **Oportunidades** y las **Amenazas** son aspectos externos y sólo se puede tener ingerencia sobre ellas modificando aspectos internos de la organización.
 
+Realizando correctamente el análisis FODA se pueden establecer las estrategias Ofensivas, Defensivas, de Supervivencia y de Reordenamiento necesarias para cumplir con los objetivos empresariales planteados.
+
 ---
 
 ## Referencias
 [¿Qué es la Matriz FODA? - matrizfoda.com](https://www.matrizfoda.com/dafo/)
+[Cómo hacer el Análisis FODA Paso a Paso + Ejemplo Práctico - ingenioempresa.com](https://www.ingenioempresa.com/matriz-foda/)
+[Qué es el Análisis FODA y Cómo Implementarlo en tu Empresa (con Ejemplos) - hubspot.es](https://blog.hubspot.es/marketing/analisis-foda)
