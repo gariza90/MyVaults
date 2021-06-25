@@ -14,6 +14,8 @@ La priorización se define basado en lo *importante* sobre lo *urgente*.
 - **Importante**: Son aquellas actividades que tienen un resultado que nos lleva a alcanzar nuestros objetivos.
 - **Urgente**: Son las que exigen atención inmediata y, exigen atención porque las consecuencias de tratar con ellas son inmediatas.
 
+![[Eisenhower.jpg]]
+
 Permite clasificar las tareas en cuatro grupos.
 - **Importante/Urgente**: Hacerlo ahora.
 - **Importante/No Urgente**: Planificar en la lista de tareas o el calendario.
