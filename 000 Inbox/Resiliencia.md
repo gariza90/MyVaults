@@ -1,3 +1,9 @@
+---
+created: 2021-06-27
+type: Nota
+tags: Concepto
+---
+
 Links: [[Antifragilidad]], [[Agilidad]]
 
 # Resiliencia
