@@ -1,12 +1,14 @@
+/* ---------------------------------------------------------------------------- */
+/* Headers Format */
+/* ---------------------------------------------------------------------------- */
+
 .theme-dark .cm-header-1,
 .theme-dark h1 {
-    /* color: #e0878b; */
     color: #f799aa;
 }
 
 .theme-dark .cm-header-2,
 .theme-dark h2 {
-    /* color: #8ebba7; */
     color: #f6c5fa;
 }
 
@@ -30,14 +32,33 @@
     color: #7f7f7f;
 }
 
+/* ---------------------------------------------------------------------------- */
+/* Links Format */
+/* ---------------------------------------------------------------------------- */
+
 .theme-dark .cm-hmd-internal-link,
 .theme-dark .internal-link {
-    /* color: #f2af88; */
     color: #bcffc1 !important;
 }
 
 .theme-dark .cm-link,
 .theme-dark .external-link {
-    /* color: #83c6fa; */
     color: #f2af88 !important;
 }
+
+/* ---------------------------------------------------------------------------- */
+/* Bullet Point Relationship Lines */
+/* ---------------------------------------------------------------------------- */
+
+.cm-hmd-list-indent .cm-tab, ul ul { position: relative; }
+.cm-hmd-list-indent .cm-tab::before, ul ul::before {
+ content:'';
+ border-left: 1px solid rgba(228, 222, 172, 0.5);
+ position: absolute;
+}
+
+.cm-hmd-list-indent .cm-tab::before { left: 0; top: -5px; bottom: -4px; 
+}
+
+ul ul::before { left: -11px; top: 0; bottom: 0; 
+} 

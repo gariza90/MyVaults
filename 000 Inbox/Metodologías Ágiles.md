@@ -190,4 +190,4 @@ Otras metodologías.
 
 ## Referencias
 [Método Ágil ASD (Adaptive Software Development) - ingenieriadesoftware.mex](http://ingenieriadesoftware.mex.tl/61154_asd.html)
-[# Rapid Application Development (RAD) - creatio.com](https://www.creatio.com/page/rapid-application-development)
+[Rapid Application Development (RAD) - creatio.com](https://www.creatio.com/page/rapid-application-development)
