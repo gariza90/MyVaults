@@ -1,3 +1,9 @@
+---
+created: 2021-06-27 07:44
+type: Nota
+tags: Productividad, Organización
+---
+
 Links: [[]]
 
 # Técnica Pomodoro

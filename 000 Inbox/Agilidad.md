@@ -1,3 +1,8 @@
+---
+type: Nota
+tags: Concepto
+---
+
 # Agilidad
 ---
 
