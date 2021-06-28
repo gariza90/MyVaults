@@ -4,7 +4,7 @@ type: Nota
 tags: Productividad, Organización
 ---
 
-Links: [[]]
+Links: [[Agilidad]], [[Timeboxing]]
 
 # Técnica Pomodoro
 ---
@@ -17,8 +17,6 @@ Inventada por Francesco Cirillo a finales de la década de los 80's.
 
 El nombre de la técnica deriva del la forma del temporizador de cocina que utilizó su creador mientras la desarrollaba, este tenía forma de tomate (pomodoro en italiano).
 
-Esta técnica es recomendable para trabajar menos y lograr más en tan solo 25 minutos. Se logra una mayor [[Agilidad]] mental ayudando a alcanzar un estado de [[Enfoque|Foco]] más elevado, aumenta la [[Motivación]] frente al tiempo, al hacer mejor uso de el, previene la [[Procastrinación]] y la [[Multitarea]]
-
 Mecánica básica de la técnica:
 1. Elige una tarea para completar.
 2. Ajusta un temporizador a 25 minutos.
@@ -27,8 +25,19 @@ Mecánica básica de la técnica:
 5. Repite los pasos del 1 al 4.
 6. Después de cada cuatro pomodoros, toma un descanso más extenso, de unos 20 minutos o más.
 
+Esta técnica es recomendable para trabajar menos y lograr más en tan solo 25 minutos.
+- Logra una mayor [[Agilidad]] mental.
+- Ayuda a alcanzar un estado de [[Enfoque]] más elevado al evitar las distracciones.
+- Aumenta la [[Motivación]] al hacer un mejor uso del tiempo.
+- Previene la [[Procastrinación]] y la [[Multitarea]].
+
+Esta técnica se relaciona con conceptos como [[Timeboxing]] y [[Desarrollo Iterativo]] e [[Desarrollo Incremental|Incremental]], en contextos de [[Metodologías Ágiles|Desarrollo Ágil]].
+
 ---
 
 ## Referencias
 [Técnica de Pomodoro: ¿Cómo Ayuda a Mejorar la Productividad Empresarial? - infoempleo](https://empresas.infoempleo.com/hrtrends/tecnica-pomodoro)
 [Cómo Ser Más Productivo con la Técnica Pomodoro - lecturaagil.com](https://lecturaagil.com/como-ser-mas-productivo-con-la-tecnica-del-pomodoro/)
+[Técnica Pomodoro - Wikipedia](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro)
+[¿Qué es la Técnica Pomodoro? - ehorus.com](https://ehorus.com/es/tecnica-pomodoro/)
+[# Cómo Concentrarse Mejor con la Técnica de Pomodoro En 5 Pasos Fáciles - Youtube](https://youtu.be/Q2I96FgZUHA?t=179)
