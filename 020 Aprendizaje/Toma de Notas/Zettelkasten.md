@@ -12,6 +12,8 @@ Fue diseñado e implementado por el sociólogo Alemán [[Niklas Luhmann]].
 
 Las notas se enumeran de forma jerárquica y contienen [[metadatos]] para su asociación o [[Notas Densamente Vinculadas|vinculación]], esto permite la percepción de conexiones y relaciones de ideas o [[Notas Orientadas a Conceptos|conceptos]].
 
+Es una red organizada de ideas.
+
 ---
 
 ## Referencias
