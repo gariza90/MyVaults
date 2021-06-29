@@ -44,4 +44,22 @@ Enlaces a páginas web para su lectura, estudio y posterior organización.
 
 ## Matrices de Gestión
 
-[Las 5 Mejores Matrices de Todos los Tiempos para una Gestión Diez](http://elblogdelmandointermedio.com/2015/06/17/5-matrices-imprescindibles-para-una-gestion-diez/)
+Ampliar [[Matrices de Gestión - MOC]]
+
+[Las 5 Mejores Matrices de Todos los Tiempos para una Gestión Diez - elblogdelmandointermedio](http://elblogdelmandointermedio.com/2015/06/17/5-matrices-imprescindibles-para-una-gestion-diez/)
+
+## Técnicas de Estudio, Toma de Notas
+
+Ampliar [[Método Cornell]]
+
+[Kenshu, Cómo Tomar Notas Efectivas de lo que Lees - hypertextual](https://hipertextual.com/2017/01/kenshu-tomar-notas-efectivas-lo-lees)
+
+[Técnicas para Tomar Apuntes - estudiantes.info](http://www.estudiantes.info/tecnicas_de_estudio/tecnicas_tomar_apuntes.htm)
+
+[Cómo Tomar Notas Eficientemente, 3 Métodos - grupogeard](https://grupogeard.com/blog/tomar-notas-eficientemente-3-metodos/)
+
+[Cómo tomar Notas con el Método Cornell - canasto](https://canasto.es/blog/notas-cornell)
+
+[Cómo Tomar Apuntes y Notas en Clase + Tabla de abreviaturas - educalive](https://blog.educalive.com/como-tomar-apuntes-clase/)
+
+[Tecnicas de Estudio, Los Apuntes - unex](https://biblioguias.unex.es/c.php?g=572102&p=3944709)

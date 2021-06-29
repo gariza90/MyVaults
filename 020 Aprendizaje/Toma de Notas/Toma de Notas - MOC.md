@@ -7,6 +7,7 @@ Links: [[020 Aprendizaje - MOC]]
 - [[Notas Evergreen]]
 - [[Principios para Toma de Notas]]
 - [[Tipos de Notas]]
+- [[Método Cornell]]
 
 ---
 
