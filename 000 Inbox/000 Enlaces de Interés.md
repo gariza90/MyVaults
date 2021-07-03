@@ -7,12 +7,7 @@ Enlaces a páginas web para su lectura, estudio y posterior organización.
 
 Ampliar [[Zettelkasten]]
 
-**Enfoque: los principios de Zettelkasten**
-[Zettelkasten - Cómo un erudito Alemán fue tan increíblemente productivo - medium.com](https://medium.com/voces-en-espa%C3%B1ol/zettelkasten-c%C3%B3mo-un-erudito-alem%C3%A1n-fue-tan-incre%C3%ADblemente-productivo-b16643e170cc)
-
 **Enfoque: Tipos de notas establecidos por Luhmann**
-[Los tipos de notas en el Zettelkasten de Luhmann - gardendigital](https://gardendigital.blogspot.com/2021/01/los-tipos-de-notas-en-zettelkasten.html)
-
 [The Introduction to the Zettelkasten Method - zettelkasten.de](https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method)
 
 [Communicating with Slip Boxes - luhmann.surge.sh](http://luhmann.surge.sh/communicating-with-slip-boxes)
