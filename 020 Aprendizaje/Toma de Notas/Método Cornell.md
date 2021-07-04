@@ -9,9 +9,11 @@ Links: [[020 Aprendizaje - MOC]]
 # Método Cornell
 ---
 
-Es un sistema de toma de notas, creado en la década de los 50's por Walter Pauk, doctor en psicología y profesor en educación de la Universidad de Cornell.
+Es un sistema de toma de notas o apuntes, creado en la década de los 50's por Walter Pauk, doctor en psicología y profesor en educación de la Universidad de Cornell.
 
-Provee un formato sistemático para la condensación y organización de notas.
+Provee un formato sistemático para la condensación y organización de notas o apuntes.
+
+En una hoja de papel (o el medio escogido), se divide en cuatro áreas diferentes, (título, preguntas/palabras clave, apuntes/ideas principales y resumen).
 
 ---
 
