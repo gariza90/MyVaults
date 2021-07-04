@@ -1,4 +1,3 @@
-%% #Notas %%
 Links: [[Toma de Notas - MOC]]
 
 # Tipos de Notas
