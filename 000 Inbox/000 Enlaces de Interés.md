@@ -41,7 +41,7 @@ Ampliar [[Matrices de Gestión - MOC]]
 
 Ampliar [[Método Cornell]]
 
-[Kenshu, Cómo Tomar Notas Efectivas de lo que Lees - hypertextual](https://hipertextual.com/2017/01/kenshu-tomar-notas-efectivas-lo-lees)
+[Cómo Recordar Todos los Libros que Lees - hipertextual](https://hipertextual.com/2016/12/recordar-todos-los-libros)
 
 [Técnicas para Tomar Apuntes - estudiantes.info](http://www.estudiantes.info/tecnicas_de_estudio/tecnicas_tomar_apuntes.htm)
 
