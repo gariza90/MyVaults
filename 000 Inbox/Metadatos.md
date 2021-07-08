@@ -1,6 +1,6 @@
 ---
 created: 2021-07-04 16:37
-type: Note
+type: Nota
 tags: BOAT
 ---
 

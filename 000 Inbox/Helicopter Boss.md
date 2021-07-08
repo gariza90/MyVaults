@@ -1,5 +1,6 @@
 ---
-created: 2021-06-15T13:33:20 (UTC -05:00)
+created: 2021-06-15 13:33
+type: Nota
 tags: []
 ---
 
