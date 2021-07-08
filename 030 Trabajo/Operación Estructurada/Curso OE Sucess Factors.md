@@ -99,7 +99,7 @@ Monitorear y controlar el desempeño de cualquier proceso operativo de manera qu
 
 Ver [[Práctica 3. Guías de Control y Ventanas Operativas]].
 
-### Fase 3: Seguimiento
+## Fase 3: Seguimiento
 Ejecutar actividades de monitoreo que se deben considerar, estandarizar y optimizar para asegurar la correcta operación de las plantas, estaciones, sistemas y equipos para detectar desviaciones con respecto a los límites de control operacional o condiciones subestándar.
 
 De esta forma podemos tomar acciones preventivas y correctivas como supervisores, técnicos ,operadores y recorredores para normalizar y/o mejorar la condición operacional del área.
@@ -115,7 +115,75 @@ Ver [[Operación Estructurada#Fase 3 Seguimiento|Fase 3: Seguimiento]].
 [[Práctica 2. Rondas Estructuradas]].
 [[Práctica 4. Cuidado Básico de Equipos]].
 
-### Fase 4: Aseguramiento
+## Fase 4: Aseguramiento
+Consiste en verificar el cumplimiento y efectividad de las tareas. Se llevan a cabo las actividades: cierre / entrega de turno, así como tener en cuenta las directrices del líder.
+
+Para el aseguramiento de la operación estructurada se deben realizar dos grandes actividades: [[seguimiento]] y [[verificación]].
+
+### Práctica 5: Análisis Operacional
+
+**¿Por qué es importante el Análisis Operacional?**
+
+- Fomenta el hábito permanente de planeación, seguimiento, evaluación y análisis del comportamiento de los procesos.
+- Garantizar la seguridad de las personas y la integridad de los procesos a cargo.
+- Obtener el mejor rendimiento de las materias primas o entradas a los procesos.
+- Asegurar el excelente desempeño de los equipos y activos para transformar las materias primas.
+- Optimizar costos de producción, para mejorar la rentabilidad como negocio.
+- Entregar productos/servicios acordes con los compromisos de calidad en oportunidad y volumen.
+- Mantener y mejorar con responsabilidad el ambiente y el entorno.
+- Fortalecer el hábito permanente de planeación, seguimientos, evaluación y análisis del comportamiento de los procesos.
+- Entregar productos/servicios acordes con las especificaciones establecidas con los clientes internos y externos.
+
+**¿Qué es lo que se necesita para realizar un adecuado Análisis Operacional?**
+
+- Conocer y entender la filosofía y los objetivos operacionales de las unidades en seguridad, rendimientos, calidad, confiabilidad, costos y rentabilidad.
+- Identificar los factores involucrados en el balance másico, volumétrico, de energía y su interrelación.
+- Identificar las variables críticas de control, sus guías de control, efectos, interrelación e interdependencia y los niveles de integridad mecánica de los sistemas.
+- Conocer y entender los principios de operación de los equipos y las prácticas operacionales (procedimientos, inspección, mantenimiento), para mantenerlos en condiciones óptimas.
+- Entender la economía de la operación, para evaluar si los resultados aportan al margen de cada negocio.
+
+**Componentes del modelo conceptual de Análisis Operacional**
+
+- Balances del Proceso.
+	- Balance de Energía.
+	- Balance de Masa.
+	- Balance de Volumen.
+- Materiales del Proceso.
+	- Relación de los Materiales.
+- Descripción y clarificación del Proceso.
+	- Función de los sistemas.
+- Variables del Proceso.
+	- Manipuladas.
+		- Variable Crítica.
+			- Ventanas Operativas.
+			- Guías de Control.
+			- Alarmas.
+	- Controladas.
+	- Asociadas.
+- Equipos de Proceso.
+	- Función del equipo en los procesos.
+	- Hojas técnicas (guías de control y ventanas operativas)
+	- Mantenimiento preventivo, correctivo y de cuidado básico de equipos - BEC.
+- Prácticas y Procedimientos.
+	- Mantener la funcionalidad de la operación.
+	- Garantizar la eficiencia de la operación.
+	- Asegurar la integridad operativa.
+
+**Contextualización del Área de Trabajo**
+
+- ¿Cuáles son las variables críticas?
+- ¿Qué indicadores determinan el desempeño del proceso?
+- ¿Cómo está conformada la unidad?
+- ¿Qué contenidos tienen los equipos, las unidades y las salidas?
+- ¿Cuáles son los balances de energía?
+
+**Análisis de Especialidades de Ingeniería**
+
+- Revisa.
+- Contacta al Operador y valida.
+- Complementa, plantea y proyecta.
+- Verifica, valida y realimenta.
+- Análisis Operacional.
 
 ---
 

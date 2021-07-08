@@ -1,6 +1,6 @@
 # HSE-G-033 Guía de la Práctica de Análisis Operacional de Unidades Operativas de Ecopetrol S.A.
 Establece:
-- Los lineamientos para el desarrollo estandarizado del análisis operacional de las unidades operativas de Ecopetrol S.A., que permitan garantiza la sostenibilidad de la práctica, así como definir las etapas a seguir, los aspectos a evaluar y las personas que intervienen en su desarrollo.
+- Los lineamientos para el desarrollo estandarizado del análisis operacional de las unidades operativas de Ecopetrol S.A., que permitan garantizar la sostenibilidad de la práctica, así como definir las etapas a seguir, los aspectos a evaluar y las personas que intervienen en su desarrollo.
 
 ## Alcance
 - De aplicación en todas las unidades productivas que hacen parte de los procesos misionales de Ecopetrol S.A.
