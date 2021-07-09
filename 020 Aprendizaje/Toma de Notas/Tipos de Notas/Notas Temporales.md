@@ -12,6 +12,8 @@ Sólo son útiles si se procesan mediante una revisión periódica.
 
 Son una especie de marcador para *tener presente* o *desarrollar más adelante* y que eventualmente se convertirán en [[Notas Permanentes]].
 
+Estas se pueden eliminar una vez hayan sido procesadas.
+
 ---
 
 ## Referencias

@@ -3,12 +3,15 @@ Links: [[Toma de Notas - MOC]]
 # Tipos de Notas
 ---
 
-1. [[Notas Temporales]]
-2. [[Notas Bibliográficas]]
-3. [[Notas Permanentes]]
-4. [[Notas Índice]]
-5. [[Notas de Palabras Clave]]
-6. [[Notas de Proyecto]] %%Libro: Como tomar notas de forma eficaz, posición 842%%
+Por manera de creación.
+1. [[Notas Temporales]]. %%Libro: Como tomar notas de forma eficaz, posición 837%%
+2. [[Notas Permanentes]]. %%Libro: Como tomar notas de forma eficaz, posición 839%%
+3. [[Notas de Proyecto]]. %%Libro: Como tomar notas de forma eficaz, posición 842%%
+
+Por tipo de contenido.
+1. [[Notas Bibliográficas]].
+2. [[Notas Índice]].
+3. [[Notas de Palabras Clave]].
 
 ---
 

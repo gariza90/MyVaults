@@ -54,3 +54,8 @@ Ampliar [[Método Cornell]]
 [Tecnicas de Estudio, Los Apuntes - unex](https://biblioguias.unex.es/c.php?g=572102&p=3944709)
 
 [4 Métodos de Apuntes para Clases Virtuales - udelistmo](https://www.udelistmo.edu/blog/modo-u/metodos-de-apuntes-clases-virtuales)
+
+## Zotero
+
+Video explicativo de como utilizar referencias de Zotero en Obsidian.
+[Zotero 101 - Youtube](https://youtu.be/WWWzOp9ubIw)
