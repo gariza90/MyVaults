@@ -8,6 +8,7 @@ Links: [[Toma de Notas - MOC]]
 3. [[Notas Permanentes]]
 4. [[Notas Índice]]
 5. [[Notas de Palabras Clave]]
+6. [[Notas de Proyecto]] %%Libro: Como tomar notas de forma eficaz, posición 842%%
 
 ---
 
