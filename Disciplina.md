@@ -1,7 +1,7 @@
 ---
 created: 2021-07-17 12:17
 type: Note
-tags: Aprendizaje, Concepto, BOAT
+tags: Concepto, BOAT
 ---
 
 Links: [[Discípulo]]
