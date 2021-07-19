@@ -18,16 +18,16 @@ Se apoya las actividades relevantes del custodio de Confiabilidad y HSE, debido 
 
 | Estado | Cant |
 | --- | --- |
-| Abiertos | 11 |
-| Cerrados | 1 |
-| Revisados | 0 |
+| Abiertos | 18 |
+| Cerrados | 3 |
+| Revisados | 19 |
 
 ### Análisis de Riesgos
 
 | Estado | Cant |
 | --- | --- |
-| Revisados | 0 |
-| Aprobados | 0 |
+| Revisados | 2 |
+| Aprobados | 1 |
 
 ### Gestión HSE
 - Se participa en reunión de inicio de turno.
@@ -45,8 +45,4 @@ Se apoya las actividades relevantes del custodio de Confiabilidad y HSE, debido 
 - Mantenimiento correctivo de bomba AP-7202B por ruido anormal.
 
 ### Otras Actividades
-- Se realiza los siguientes avisos:
-	- Aviso # **200223431**: Bomba Booster AP-7202B con Ruido Anormal.
-	- Aviso # **200223432**: Estado de Bomba AP-7269A Erróneo en DeltaV.
-	- Aviso # **200223433**: Estado de Bomba AP-7269A Erróneo en DeltaV.
-	- Aviso # **200223434**: Oscilación Señal de Transmisor de Nivel del Tanque ATK-7204B.
+- Se realiza seguimiento de arranque de la PTAP en modo Automático.
