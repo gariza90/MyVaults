@@ -3,7 +3,7 @@ created: 2021-05-31T19:40:22-05:00
 modified: 2021-06-11T17:39:58-05:00
 ---
 
-# 2 Pedro Capítulo 1
+# 2 Pedro 1
 
 1. La fe es algo que se nos ha otorgado o nace en cada uno de nosotros? [NVI](https://my.bible.com/es/bible/128/2PE.1.1).
 	La fe es algo que el ser humano busca y la encuentra o alcanza? [RVR60](https://my.bible.com/es/bible/149/2PE.1.1).
