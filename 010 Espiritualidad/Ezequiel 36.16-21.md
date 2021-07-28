@@ -4,7 +4,7 @@ type: Note
 tags:
 ---
 
-Links: [[Testimonio]]
+Links: [[010 Espiritualidad - MOC]], [[Testimonio]]
 
 # [Ezequiel 36:16-21](https://my.bible.com/es/bible/149/EZK.36.16-21)
 ---

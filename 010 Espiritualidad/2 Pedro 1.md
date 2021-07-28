@@ -1,7 +1,10 @@
 ---
-created: 2021-05-31T19:40:22-05:00
-modified: 2021-06-11T17:39:58-05:00
+created: 2021-05-31 19:40
+type: Note
+tags:
 ---
+
+Links: [[010 Espiritualidad - MOC]]
 
 # 2 Pedro 1
 

@@ -4,7 +4,7 @@ type: Note
 tags:
 ---
 
-Links: [[]]
+Links: [[010 Espiritualidad - MOC]]
 
 # Buenos Padres, Buenos Hijos
 ---
