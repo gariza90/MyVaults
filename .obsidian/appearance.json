@@ -1,7 +1,6 @@
 {
   "theme": "obsidian",
   "cssTheme": "Subtlegold",
-  "obsidianCss": false,
   "translucency": false,
   "baseFontSize": 15,
   "enabledCssSnippets": [
