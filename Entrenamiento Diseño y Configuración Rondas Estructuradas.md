@@ -6,7 +6,7 @@ tags: Capacitación
 
 Links: [[REVO]]
 
-# Configuración de Rondas en REVO
+# Entrenamiento Diseño y Configuración Rondas Estructuradas
 ---
 
 
