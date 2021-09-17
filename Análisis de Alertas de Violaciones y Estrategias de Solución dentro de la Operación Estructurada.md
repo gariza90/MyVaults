@@ -18,9 +18,9 @@ Manejo de Alertas de Desviación dentro de la Operación Estructurada.
 ### Documentación
 - Procedimiento para la Gestión de Incidentes. **HSE-P-007**.
 - Guía para la Eliminación de Fallas y Defectos en Producción. **IDA-G-009**.
-- Guía para la determinación de las capacidades del sistema integrado de producción. **MEP-G-002**.
-
-- HSE-F-077
+- Guía para la Determinación de las Capacidades del Sistema Integrado de Producción. **MEP-G-002**.
+- Guía de Caracterización y Toma de Decisión ante la Detección de Fugas. **DPD-G-301**.
+- Formato Instrumento de Evaluaciones para Operación Estructurada. **HSE-F-077**.
 
 ## ¿Qué es una alerta de desviación?
 
