@@ -7,18 +7,20 @@ Establece:
 
 ## Concepto
 ### Cuidado básico de equipos - BEC
-Son actividades/acciones de mantenimiento menor aseguradas por los dueños de los activos y responsables de la operación, que tienen como objetivo, prevenir el deterioro de los equipos y garantizar la disponibilidad, confiabilidad e integridad de los mismos.
+Son actividades/acciones de mantenimiento menor aseguradas por los **dueños de los activos y responsables de la operación**, que tienen como objetivo, prevenir el deterioro de los equipos y garantizar la disponibilidad, confiabilidad e integridad de los mismos.
+
+> Estas actividades de monitoreo y condicionamiento vienen definidas en los estudios RCM, RBI y SIS para las diferentes estaciones.
 
 ## Condiciones
 - Esta práctica pertenece al sub-elemento de [[Operación Estructurada]] del [[Modelo HSE]], el cual está descrito en el manual HSE [[HSE-M-003 Sistema de Gestión HSE]].
 - El cuidado básico de equipos se establece:
-	- Con base en la información de tecnología del proceso (información del fabricante)
-	- Dentro de las actividades finales de la etapa de incorporación de activos industriales
+	- Con base en la información de tecnología del proceso (información del fabricante).
+	- Dentro de las actividades finales de la etapa de incorporación de activos industriales.
 	- Presente durante todo el ciclo de operación y mantenimiento de los activos industriales.
 	- Como requerimiento de la estrategia de integridad.
 
 En los casos que el dueño del activo y responsable de la operación haga parte de las fases de incorporación y desincorporación, las actividades de preservación, considerados mantenimientos menores pueden ser parte del cuidado básico de equipos.
-- Las actividades de cuidado básico de equipos deben ser definidas como resultado de la aplicación de las diferentes metodologías de confiabilidad y riesgo por cada negocio, las cuales deben ser costo/efectivas. Las fuentes que pueden usarse para su definicion son:
+- Las actividades de cuidado básico de equipos **deben ser definidas como resultado de la aplicación de las diferentes metodologías de confiabilidad y riesgo** por cada negocio, las cuales **deben ser costo/efectivas**. Las fuentes que pueden usarse para su definicion son:
 	- Árbol de equipos en sistema de información de mantenimiento (SAP).
 	- Resultado de talleres de las metodologías en confiabilidad y riesgo entre los cuales están RCM, RCA, RBI, IPF, entre otros y de los procesos de eliminación de defectos.
 	- Listas de actividades/acciones de cuidado básico de equipos para operadores, recomendadas por el personal de mantenimiento.
