@@ -6,5 +6,7 @@
   "attachmentFolderPath": "998 Media",
   "newFileLocation": "root",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
