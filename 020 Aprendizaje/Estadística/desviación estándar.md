@@ -13,7 +13,9 @@ Llamada también desviación típica, es la medida de dispersión más frecuente
 
 Cuantifica el error que cometemos si representamos una [[muestra]] únicamente por su [[Media Aritmética|media]].
 
-Se obtiene a partir de la [[varianza]] aplicándoles únicamente la raíz cuadrada.
+Se obtiene a partir de la [[varianza]] aplicándole la raíz cuadrada.
+
+Viene dada en la misma unidad de medida que la [[variable]] de la que proviene.
 
 ---
 

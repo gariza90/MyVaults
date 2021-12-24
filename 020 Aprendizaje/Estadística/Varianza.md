@@ -9,11 +9,13 @@ Links: [[Estadística]]
 # Varianza
 ---
 
-Se define como la [[media aritmética]] de los cuadrados de las desviaciones de los datos respecto a su media aritmética.
+Es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su [[Media Aritmética|media]].
 
-Se trata de una medida de dispersión en la que mediremos como de 'recogidos' se encuentran los datos alrededor de la media.
+Formalmente se calcula como la suma de los residuos (entre cada [[Dato|valor]] de la serie y la media) al cuadrado divididos entre el total de datos.
 
 Hay que tener en cuenta que la varianza puede verse muy influida por los [[valores atípicos]].
+
+No se encuentra en la misma unidad de medida que la [[variable]] de la que proviene, ya que esta se encuentra al cuadrado.
 
 ---
 
