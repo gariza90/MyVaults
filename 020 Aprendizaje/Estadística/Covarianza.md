@@ -19,6 +19,12 @@ Es un dato necesario para estimar otros parámetros básicos como el [[coeficien
 
 El signo en el valor de la covarianza expresa la tendencia en la relación líneal entre las variables.
 
+Si el valor obtenido es positivo existirá tendencia a que los valores mayores de una variable corresponde con los valores mayores de la otra variable, o cuando los valores menores de una variable corresponde con los valores menores de la otra.
+
+Si el valor obtenido es negativo existirá tendencia contraria u opuesta, que los valores mayores de una variable corresponde con los valores menores de la otra variable.
+
+Si el valor obtenido es cero no existe relación lineal entre las variables.
+
 ---
 
 ## Referencias

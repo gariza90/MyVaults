@@ -18,6 +18,7 @@ Trata de comprender los diferentes objetivos y antecedentes de cada una de las d
 Ejemplos comunes son:
 - [[Covarianza]].
 - [[Correlación]].
+- [[Regresión]]
 
 ---
 
