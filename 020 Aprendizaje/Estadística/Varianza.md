@@ -11,11 +11,13 @@ Links: [[Estadística]]
 
 Es una medida de dispersión que representa la variabilidad de una serie de datos respecto a su [[Media Aritmética|media]].
 
+Indica que tan alejados se encuentran los datos de la media elevados al cuadrado, de esta manera se obtiene una métrica en términos de distancia.
+
 Formalmente se calcula como la suma de los residuos (entre cada [[Dato|valor]] de la serie y la media) al cuadrado divididos entre el total de datos.
 
 Hay que tener en cuenta que la varianza puede verse muy influida por los [[valores atípicos]].
 
-No se encuentra en la misma unidad de medida que la [[variable]] de la que proviene, ya que esta se encuentra al cuadrado.
+Su unidad de medida corresponde al cuadrado de la unidad de medida de la [[variable]].
 
 ---
 
