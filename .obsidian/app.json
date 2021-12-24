@@ -4,9 +4,9 @@
   "spellcheck": false,
   "promptDelete": false,
   "attachmentFolderPath": "998 Media",
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "foldHeading": true,
   "foldIndent": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": false
 }
