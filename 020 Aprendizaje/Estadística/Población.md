@@ -9,7 +9,7 @@ Links: [[Estadística]]
 # Población
 ---
 
-Conjunto bien definido de [[Individuo|individuos]] sobre el que se observa o puede observarse una cierta característica para su estudio.
+Conjunto bien definido de [[Individuo|individuos]] sobre el que se observa o puede observarse una cierta [[Variable|característica]] para su estudio.
 
 Puede ser finita o infinita.
 

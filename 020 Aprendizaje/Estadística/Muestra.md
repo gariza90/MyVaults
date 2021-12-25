@@ -13,6 +13,9 @@ Es un conjunto de [[Individuo|individuos]] de la [[población]] que refleja las 
 
 El tamaño de una muestra es el número de individuos que tiene, lo denotamos por n.
 
+## Muestra Aleatoria
+Es aquella que se selecciona con igual
+
 ---
 
 ## Referencias
