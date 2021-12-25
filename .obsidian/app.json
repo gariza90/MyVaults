@@ -8,5 +8,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": true,
+  "defaultViewMode": "source"
 }

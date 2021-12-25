@@ -9,7 +9,9 @@ Links: [[Estadística]]
 # Mediana
 ---
 
-En una serie de [[Dato|datos]] ordenados de menor a mayor, será el valor que quede en el centro de todos.
+En una serie de [[Dato|datos]] ordenados de menor a mayor, será el valor que quede en el centro (auténtico) de todos.
+
+Divide la serie de datos en dos partes iguales, una con valores superiores y otra con valores inferiores al valor de la mediana.
 
 Al igual que la [[Media Aritmética|media]], sólo puede calcularse para [[Variable Cuantitativa|variables cuantitativas]].
 
