@@ -9,7 +9,9 @@ Links: [[Estadística]]
 # Variable Continua
 ---
 
-Son aquellas que pueden tomar también valores decimales y toma un número infinito de [[Dato|valores]].
+Es aquella que puede tomar también valores decimales y toma un número infinito de [[Dato|valores]].
+
+Representa mediciones, sus valores posibles no se pueden contar y tan sólo pueden describirse utilizando intervalos de la recta de números reales.
 
 Por ejemplo: El tiempo de recorrido, el peso de un objeto.
 
