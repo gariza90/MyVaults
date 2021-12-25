@@ -9,7 +9,7 @@ Links: [[Estadística]]
 # Media Aritmética
 ---
 
-Suele definirse como el centro geométrico o valor relevante de la distribución de frecuencias. Se trata de un valor representativo de una serie de datos ([[Variable Cuantitativa|cuantitativos]]) recogidos sobre una determinada [[variable]].
+Suele definirse como el centro geométrico o valor relevante de la [[distribución]] de frecuencias. Se trata de un valor representativo de una serie de datos ([[Variable Cuantitativa|cuantitativos]]) recogidos sobre una determinada [[variable]].
 
 Se obtiene a partir de la suma de todos los [[Dato|datos]] dividido entre el número total de los datos.
 

@@ -16,7 +16,7 @@ Las medidas de tendencia central más utilizadas son:
 - [[Mediana]].
 - [[Moda]].
 
-Cuando se hace referencia únicamente a la posición de estos parámetros dentro de la distribución, independientemente de que esté más o menos centrada, se habla de estas medidas como **medidas de posición**. En este caso se incluyen también los [[cuantiles]] entre estas medidas.
+Cuando se hace referencia únicamente a la posición de estos parámetros dentro de la [[distribución]], independientemente de que esté más o menos centrada, se habla de estas medidas como **medidas de posición**. En este caso se incluyen también los [[cuantiles]] entre estas medidas.
 
 ---
 

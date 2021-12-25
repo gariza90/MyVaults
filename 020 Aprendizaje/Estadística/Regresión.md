@@ -11,6 +11,8 @@ Links: [[Estadística]]
 
 Consiste en modelizar la relación de dependencia entre las [[Variable|variables]] y predecir los [[Dato|valores]] de una de ellas ([[variable dependiente]]) en función de los valores de la otra ([[variable independiente o explicativa]]).
 
+[[Regresión Lineal]].
+
 ---
 
 ## Referencias
