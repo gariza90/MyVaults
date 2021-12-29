@@ -9,11 +9,13 @@ Links: [[Estadística]]
 # Desviación Estándar
 ---
 
-Llamada también **desviación típica**, es el [[estadístico]] de dispersión más frecuentemente utilizada.
+Llamada también **desviación típica**, es el [[estadístico]] de dispersión más frecuentemente utilizado.
 
 Es el grado estándar o típico de desviación respecto de la [[Media Aritmética|media]]. Es divergencia media respecto de la media.
 
 Se utiliza para describir la zona donde deberían estar la mayoría de los datos, en relación con la media.
+
+Cuanto más concentrados estén los datos en torno a la media, más pequeña es la desviación estándar.
 
 Cuantifica el error que cometemos si representamos una [[muestra]] únicamente por su media.
 
