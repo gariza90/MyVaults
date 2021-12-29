@@ -14,11 +14,12 @@ Toma valores en un conjunto prefijado de valores numéricos, se puede medir y cu
 Por ejemplo: La edad, el peso, el número de hijos en una familia, etc.
 
 Pueden subclasificarse a su vez:
-[[Variable Discreta]]
-[[Variable Continua]]
+- [[Variable Discreta]]
+- [[Variable Continua]]
 
 ---
 
 ## Referencias
+[[Variable Cualitativa]]
 [[Variable]]
 [[Muestra]]

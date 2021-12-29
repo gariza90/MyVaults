@@ -9,7 +9,7 @@ Links: [[Estadística]]
 # Parámetro
 ---
 
-Es un número que resume los [[Dato|datos]] recopilados de una [[población]] entera.
+Es un valor numérico que resume los [[Dato|datos]] recopilados de algunas características de una [[población]] entera.
 
 ---
 

@@ -9,7 +9,7 @@ Links: [[Estadística]]
 # Estadístico
 ---
 
-Es un número que resume los [[Dato|datos]] recopilados de una [[muestra]].
+Es un valor numérico que resume los [[Dato|datos]] recopilados de algunas características de una [[muestra]].
 
 Existen muchos estadísticos para resumir datos como por ejemplo:
 - [[Porcentajes]].

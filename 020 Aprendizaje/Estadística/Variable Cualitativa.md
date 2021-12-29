@@ -11,21 +11,23 @@ Links: [[Estadística]]
 
 O llamada tambien como variable **categórica**.
 
-Es aquella cuyo [[Dato|valor]] son caracteres no suceptibles de medida, no cuantificables.
-
 Representan características de un [[individuo]].
+
+Es aquella cuyo [[Dato|valor]] son caracteres (nombres o etiquetas) no suceptibles de medida, no cuantificables.
 
 Por ejemplo: El sexo (Hombre o Mujer), variables dicotómicas (si o no, falso o verdadero).
 
-Pueden adoptar valores numéricos, pero esos números no tienen significado. No pueden sumarse o hacer operaciones entre ellos.
+Pueden adoptar valores numéricos, pero esos números no tienen significado numérico. No pueden sumarse o hacer operaciones entre ellos.
 
 Por ejemplo: el 1 para indicar 'Hombre', el 2 para indicar 'Mujer'.
 
 Pueden subclasificarse a su vez:
-[[Variable Ordinal]]
-[[Variable Nominal]]
+- [[Variable Ordinal]]
+- [[Variable Nominal]]
 
 ---
 
 ## Referencias
+[[Variable Cuantitativa]]
 [[Variable]]
+[[Muestra]]
