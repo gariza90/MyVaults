@@ -11,7 +11,7 @@ Links: [[Estadística]]
 
 También llamadas medidas de variabilidad o medidas de propagación.
 
-Es el grado en que una [[Distribución]], se estira o se comprime.
+Es el grado en que una [[distribución]], se estira o se comprime.
 
 Ejemplos comunes son:
 - [[Rango]].

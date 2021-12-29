@@ -16,4 +16,6 @@ Se ocupa de la descripción de [[Dato|datos]] experimentales, más específicame
 ---
 
 ## Referencias
+[[Medidas de Tendencia Central]]
+[[Medidas de Dispersión]]
 [[Estadística Inferencial]]
