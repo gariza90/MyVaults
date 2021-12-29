@@ -9,7 +9,7 @@ Links: [[Estadística]]
 # Muestra
 ---
 
-Es un conjunto de [[Individuo|individuos]] de la [[población]] que refleja las características de ésta lo mejor posible. Si las características quedan bien reflejadas, se dice que la muestra es representativa.
+Es un subconjunto de [[Individuo|individuos]] seleccionados de la [[población]] que refleja las características de ésta lo mejor posible. Si las características quedan bien reflejadas, se dice que la muestra es representativa.
 
 El tamaño de una muestra es el número de individuos que tiene, lo denotamos por n.
 

@@ -17,6 +17,8 @@ Existen muchos estadísticos para resumir datos como por ejemplo:
 - [[Mediana]].
 - [[Percentil]].
 
+Debido a que las poblaciones suelen ser muy grandes, un objetivo común del uso de la [[estadística]] es obtener datos de una muestra y luego utilizarlos para sacar una conclusión acerca de la [[población]].
+
 ---
 
 ## Referencias
