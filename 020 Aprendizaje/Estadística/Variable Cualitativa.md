@@ -21,7 +21,7 @@ Pueden adoptar valores numéricos, pero esos números no tienen significado num�
 
 Por ejemplo: el 1 para indicar 'Hombre', el 2 para indicar 'Mujer'.
 
-Pueden subclasificarse a su vez:
+Pueden clasificarse a su vez:
 - [[Variable Ordinal]]
 - [[Variable Nominal]]
 
