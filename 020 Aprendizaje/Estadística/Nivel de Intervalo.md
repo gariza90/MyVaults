@@ -19,7 +19,9 @@ Se pueden poner en orden los datos y es posible encontrar diferencias significat
 
 No se pueden multiplicar o dividir, sin embargo, se pueden sumar o restar.
 
-Los datos tienen un punto de inicio cero natural en el que no hay ninguna cantidad presente, pero este no es absoluto.
+Los datos tienen un punto de inicio cero, pero este no es absoluto.
+
+Como por ejemplo: Las temperaturas corporales en grados o celsius.
 
 ---
 
