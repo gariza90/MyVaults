@@ -8,7 +8,8 @@
 - [[PKM - MOC]].
 - [[Scrum - MOC]].
 - [[Toma de Notas - MOC]].
-- [[Estadística - MOC]]
+- [[Estadística - MOC]].
+- [[Probabilidad - MOC]].
 
 ---
 
